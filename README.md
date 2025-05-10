@@ -1,11 +1,15 @@
-# 👋 Hi, I'm **Mahmoud Mokhtar**
+# 👋 Hi, I'm Mahmoud Mokhtar  
+### 💻 **Mobile App Developer** | 🎓 **AI Graduate** | 📍 **Egypt**
 
-### 💻 Flutter Developer | 🇪🇬 Egypt
+I am passionate about creating high-performance, seamless mobile applications with a strong focus on delivering intuitive user experiences and ensuring robust app performance. My goal is to use the latest technologies to provide innovative solutions that efficiently solve real-world problems.
 
-A passionate Flutter developer from Egypt, dedicated to creating seamless and intuitive mobile applications. With a strong focus on user experience and performance, I strive to build high-quality apps that solve real-world problems. Continuously learning and evolving, I’m committed to staying at the forefront of mobile development to deliver innovative solutions.
+With an academic background in **Artificial Intelligence**, I integrate AI techniques to enhance app functionalities and user interactions, helping to exceed user expectations and elevate the quality of the experience.
 
+### Core Skills:
+- Optimizing app performance to ensure smooth and effective functionalities.
+- Integrating **AI technologies** into app development.
+- Building apps that not only meet but exceed user expectations.
+- Constantly improving and updating my technical knowledge.
 
-<!---
-Eng-Mahmoud-Mokhtar/Eng-Mahmoud-Mokhtar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am always learning and evolving, committed to delivering practical and cutting-edge solutions that meet the needs of users.
+
