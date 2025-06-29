@@ -12,4 +12,5 @@ With an academic background in **Artificial Intelligence**, I integrate AI techn
 - Constantly improving and updating my technical knowledge.
 
 I am always learning and evolving, committed to delivering practical and cutting-edge solutions that meet the needs of users.
+![Frame 1000004494](https://github.com/user-attachments/assets/5d956935-fa74-431d-b520-007fdd882820)
 
