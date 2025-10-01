@@ -41,43 +41,50 @@
 
 <div align="center">
 
-**💻 Framework & Language**  
-<br>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<!-- Framework & Language -->
+<div style="display:inline-block; margin:10px; padding:15px; border-radius:15px; background: #E3F2FD; width:250px; text-align:center;">
+  <h4>💻 Framework & Language</h4>
+  <br>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+</div>
 
-<br><br>
+<!-- State Management -->
+<div style="display:inline-block; margin:10px; padding:15px; border-radius:15px; background: #FFF3E0; width:250px; text-align:center;">
+  <h4>⚡ State Management</h4>
+  <br>
+  <img src="https://img.shields.io/badge/Bloc-000000?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Provider-42A5F5?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/GetX-FF6F00?style=for-the-badge&logo=flutter&logoColor=white" />
+</div>
 
-**⚡ State Management**  
-<br>
-<img src="https://img.shields.io/badge/Bloc-000000?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Provider-42A5F5?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/GetX-FF6F00?style=for-the-badge&logo=flutter&logoColor=white" />
+<!-- Backend & Database -->
+<div style="display:inline-block; margin:10px; padding:15px; border-radius:15px; background: #E8F5E9; width:250px; text-align:center;">
+  <h4>🔗 Backend & Database</h4>
+  <br>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cloud_Firestore-FFA000?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</div>
 
-<br><br>
+<!-- Architecture & Patterns -->
+<div style="display:inline-block; margin:10px; padding:15px; border-radius:15px; background: #F3E5F5; width:250px; text-align:center;">
+  <h4>🏗️ Architecture & Patterns</h4>
+  <br>
+  <img src="https://img.shields.io/badge/Clean_Architecture-6A1B9A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MVVM-00897B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Repository_Pattern-FF5722?style=for-the-badge" />
+</div>
 
-**🔗 Backend & Database**  
-<br>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Cloud_Firestore-FFA000?style=for-the-badge&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-
-<br><br>
-
-**🏗️ Architecture & Patterns**  
-<br>
-<img src="https://img.shields.io/badge/Clean_Architecture-6A1B9A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MVVM-00897B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Repository_Pattern-FF5722?style=for-the-badge" />
-
-<br><br>
-
-**📱 Platforms**  
-<br>
-<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/Desktop-607D8B?style=for-the-badge" />
+<!-- Platforms -->
+<div style="display:inline-block; margin:10px; padding:15px; border-radius:15px; background: #ECEFF1; width:250px; text-align:center;">
+  <h4>📱 Platforms</h4>
+  <br>
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Desktop-607D8B?style=for-the-badge" />
+</div>
 
 </div>
 
