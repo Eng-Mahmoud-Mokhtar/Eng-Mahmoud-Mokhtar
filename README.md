@@ -1,65 +1,66 @@
-<!-- Hero Section -->
-<div align="center" style="background: linear-gradient(135deg, #1a1a2e, #16213e); padding: 40px; border-radius: 15px; color: #E6E6FA;">
-  <h1 style="font-size: 3.5em; font-weight: bold; margin-bottom: 10px;">Mahmoud Mokhtar</h1>
-  <h3 style="font-style: italic; color: #B0C4DE; margin-bottom: 20px;">Mobile App Developer | AI Specialist | Innovating from Egypt</h3>
-  <p style="max-width: 600px; margin: 0 auto; font-size: 1.1em;">Crafting <b>scalable, user-centric mobile applications</b> that blend cutting-edge AI with seamless design to solve real-world challenges.</p>
-</div>
+<!-- Header -->
+<h1 align="center">👋 Hi, I'm Mahmoud Mokhtar</h1>
+<h3 align="center">💻 Mobile App Developer | 🎓 AI Graduate | 📍 Egypt</h3>
 
-<div align="center" style="margin: 20px 0;">
-  <a href="mailto:Mahmoudmokhtar2001@gmail.com"><img src="https://img.shields.io/badge/Email-Mahmoudmokhtar2001@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Eng-Mahmoud-Mokhtar"><img src="https://img.shields.io/badge/GitHub-Eng--Mahmoud--Mokhtar-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/mahmoud-mokhtar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<p align="center">
+  <a href="mailto:Mahmoudmokhtar2001@gmail.com"><img src="https://img.shields.io/badge/Email-Mahmoudmokhtar2001@gmail.com-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://github.com/Eng-Mahmoud-Mokhtar"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+</p>
+
+---
+
+## 📝 Summary
+I am passionate about creating **high-performance mobile apps** with a strong focus on **user experience** and **AI integration**.  
+I build **scalable, clean, and modern apps** for Android and iOS using the latest technologies.
+
+---
+
+## 🛠️ Skills
+<div align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
 ---
 
-## 🎥 Portfolio Showcase
-Explore my work through a collection of <b>innovative projects</b>, each designed to deliver impact and excellence. Hover over each card to reveal more details.
+## 💼 Projects
+| Project | Description |
+|---------|-------------|
+| **Lumpy Skin Disease** | Veterinary app for early skin disease detection. |
+| **BioLock** | Secure personal items with fingerprint/face verification. |
+| **Cashier** | Desktop cafe management app with full order control. |
+| **WorkZone** | Biometric attendance tracking for companies. |
+| **Skin Scan Tech** | Medical app with AI-powered skin analysis and chatbot. |
+| **Kayan** | Sports booking app for football fields, gyms, and pools. |
+| **Building Knowledge** | Real estate app with integrated services and subscriptions. |
+| **Tamanena** | Islamic app with Quran, Azkar, prayer times, and alerts. |
+| **YIACO** | Car parking app with valet services and barcode security. |
+| **MoviesApp** | Movies & series exploration, streaming, and download. |
+| **OEMDOC** | Automotive app for Syria, Lebanon, Jordan car checking and parts. |
+| **Manarah** | Islamic app with offline Quran, Tasbeeh, Azkar, prayer tracking. |
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; padding: 20px;">
-  
-  <!-- Project Card 1 -->
-  <div style="background: #2D3A3E; padding: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    <h3 style="color: #E6E6FA; margin-bottom: 10px;">🐄 Lumpy Skin Disease Detection</h3>
-    <p style="color: #B0C4DE;">AI-powered veterinary app for early detection of lumpy skin disease in livestock, with real-time diagnostics and consultation features.</p>
-    <p style="color: #B0C4DE; font-size: 0.9em;"><b>Tech Stack</b>: Flutter, TensorFlow, Python, Firebase</p>
-    <p style="color: #FFD700; font-style: italic;">Impact: Empowering farmers with life-saving technology.</p>
-  </div>
+---
 
-  <!-- Project Card 2 -->
-  <div style="background: #2D3A3E; padding: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    <h3 style="color: #E6E6FA; margin-bottom: 10px;">🔒 BioLock</h3>
-    <p style="color: #B0C4DE;">Biometric security app using fingerprint and facial recognition for secure access to personal items.</p>
-    <p style="color: #B0C4DE; font-size: 0.9em;"><b>Tech Stack</b>: Kotlin, Flutter, Firebase Authentication</p>
-    <p style="color: #FFD700; font-style: italic;">Impact: Redefining personal security with cutting-edge tech.</p>
-  </div>
+## 📈 Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eng-Mahmoud-Mokhtar&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-Mahmoud-Mokhtar&layout=compact&theme=radical" />
+</p>
 
-  <!-- Project Card 3 -->
-  <div style="background: #2D3A3E; padding: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    <h3 style="color: #E6E6FA; margin-bottom: 10px;">☕ Cashier</h3>
-    <p style="color: #B0C4DE;">Desktop app for cafe management with real-time order tracking, inventory, and analytics.</p>
-    <p style="color: #B0C4DE; font-size: 0.9em;"><b>Tech Stack</b>: Flutter, Dart, SQLite</p>
-    <p style="color: #FFD700; font-style: italic;">Impact: Streamlining operations for small businesses.</p>
-  </div>
+---
 
-  <!-- Project Card 4 -->
-  <div style="background: #2D3A3E; padding: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    <h3 style="color: #E6E6FA; margin-bottom: 10px;">🕒 WorkZone</h3>
-    <p style="color: #B0C4DE;">Enterprise-grade biometric attendance system with real-time tracking and reporting.</p>
-    <p style="color: #B0C4DE; font-size: 0.9em;"><b>Tech Stack</b>: Flutter, Firebase, REST API</p>
-    <p style="color: #FFD700; font-style: italic;">Impact: Enhancing workforce management globally.</p>
-  </div>
+## 📫 Contact Me
+- Email: Mahmoudmokhtar2001@gmail.com
+- Phone: 01017900067
+- GitHub: [Eng-Mahmoud-Mokhtar](https://github.com/Eng-Mahmoud-Mokhtar)
 
-  <!-- Project Card 5 -->
-  <div style="background: #2D3A3E; padding: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    <h3 style="color: #E6E6FA; margin-bottom: 10px;">🩺 Skin Scan Tech</h3>
-    <p style="color: #B0C4DE;">AI-driven medical app for skin analysis with an integrated chatbot for health insights.</p>
-    <p style="color: #B0C4DE; font-size: 0.9em;"><b>Tech Stack</b>: Flutter, Python, TensorFlow, Dialogflow</p>
-    <p style="color: #FFD700; font-style: italic;">Impact: Making healthcare proactive and accessible.</p>
-  </div>
+---
 
-  <!-- Project Card 6 -->
-  <div style="background: #2D3A3E; padding: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    <h3 style="color: #E6E6FA; margin-bottom: 10px;">⚽ Kayan</h3>
-    <p style="color: #B0C4DE;">Sports booking platform for football fields, gyms, and pools with secure payments.</p>
-    <p style="color: #B0C4DE; font-size: 0.9em;"><b>Tech Stack</b>: Flutter, Firebase,
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" />
+</p> 
