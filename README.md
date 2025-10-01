@@ -1,7 +1,8 @@
 <h1 align="center">🤖 Mahmoud Mokhtar</h1>
 <h3 align="center">AI-Driven Flutter Developer | Building Intelligent Mobile Apps</h3>
 
-<p align="center">
+<p align="center">![Uploading WhatsApp Image 2025-09-18 at 2.53.24 PM.jpeg…]()
+
   <img src="https://img.shields.io/badge/Flutter-95%25-blue?style=for-the-badge&logo=flutter">
   <img src="https://img.shields.io/badge/Dart-90%25-0175C2?style=for-the-badge&logo=dart">
   <img src="https://img.shields.io/badge/Kotlin-85%25-purple?style=for-the-badge&logo=kotlin">
