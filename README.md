@@ -96,13 +96,11 @@ Figma & design accurate implementation
 <!-- GitHub Stats Badge -->
 <img src="https://github-readme-stats.vercel.app/api?username=Eng-Mahmoud-Mokhtar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&hide=stars,followers" alt="GitHub Stats" style="width: 330px; height: 150px;" />
 
-<!-- GitHub Streak Badge -->
-<div style="text-align: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-Mahmoud-Mokhtar&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="width: 330px; height: 150px;" />
-  <div style="margin-top: 5px; font-size: 14px; color: #fff;">Current Streak: 700 days</div>
-</div>
+<!-- Custom Streak Badge -->
+<img src="https://img.shields.io/badge/Current_Streak-700%20days-tokyonight?style=for-the-badge" alt="Current Streak" style="width: 330px; height: 150px;" />
 
 </div>
+
 
 ---
 
