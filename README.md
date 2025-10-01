@@ -13,7 +13,18 @@
 <br>
 
 <p align="center">
-🎯 Current Role: Team Lead @ TREND SOCIAL & Comma  |  🎓 Education: Bachelor's in AI  |  📍 Location: Al Mansoura, Egypt
+<div align="center">
+
+### 🎯 Current Role
+Team Lead at TREND SOCIAL & Comma
+
+### 🎓 Education
+Bachelor's in Artificial Intelligence
+
+### 📍 Location
+Al Mansoura, Egypt | 🌍 Remote Friendly
+
+</div>
 </p>
 
 <br>
