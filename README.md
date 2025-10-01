@@ -75,94 +75,97 @@
 
 ## 🛠️ Skills
 
-<div align="center" style="display:flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+<div align="center" style="display:flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
 <!-- Flutter -->
-<div style="background-color:#0D1117; color:white; border-radius:10px; padding:15px; width:180px; text-align:center;">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" width="40"/>
-  <h4>Flutter</h4>
-  <progress value="90" max="100" style="width: 100%;"></progress>
+<div style="background-color:#0D1117; color:white; border-radius:15px; padding:25px; width:220px; text-align:center;">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" width="60"/>
+  <h3>Flutter</h3>
+  <progress value="90" max="100" style="width: 100%; height:10px;"></progress>
 </div>
 
 <!-- Dart -->
-<div style="background-color:#0D1117; color:white; border-radius:10px; padding:15px; width:180px; text-align:center;">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" width="40"/>
-  <h4>Dart</h4>
-  <progress value="85" max="100" style="width: 100%;"></progress>
+<div style="background-color:#0D1117; color:white; border-radius:15px; padding:25px; width:220px; text-align:center;">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" width="60"/>
+  <h3>Dart</h3>
+  <progress value="85" max="100" style="width: 100%; height:10px;"></progress>
 </div>
 
 <!-- Python -->
-<div style="background-color:#0D1117; color:white; border-radius:10px; padding:15px; width:180px; text-align:center;">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="40"/>
-  <h4>Python</h4>
-  <progress value="80" max="100" style="width: 100%;"></progress>
+<div style="background-color:#0D1117; color:white; border-radius:15px; padding:25px; width:220px; text-align:center;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="60"/>
+  <h3>Python</h3>
+  <progress value="80" max="100" style="width: 100%; height:10px;"></progress>
 </div>
 
 <!-- Firebase -->
-<div style="background-color:#0D1117; color:white; border-radius:10px; padding:15px; width:180px; text-align:center;">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" width="40"/>
-  <h4>Firebase</h4>
-  <progress value="85" max="100" style="width: 100%;"></progress>
+<div style="background-color:#0D1117; color:white; border-radius:15px; padding:25px; width:220px; text-align:center;">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" width="60"/>
+  <h3>Firebase</h3>
+  <progress value="85" max="100" style="width: 100%; height:10px;"></progress>
 </div>
 
 <!-- REST APIs -->
-<div style="background-color:#0D1117; color:white; border-radius:10px; padding:15px; width:180px; text-align:center;">
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" width="40"/>
-  <h4>REST APIs</h4>
-  <progress value="80" max="100" style="width: 100%;"></progress>
+<div style="background-color:#0D1117; color:white; border-radius:15px; padding:25px; width:220px; text-align:center;">
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" width="60"/>
+  <h3>REST APIs</h3>
+  <progress value="80" max="100" style="width: 100%; height:10px;"></progress>
 </div>
 
 <!-- Postman -->
-<div style="background-color:#0D1117; color:white; border-radius:10px; padding:15px; width:180px; text-align:center;">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" width="40"/>
-  <h4>Postman</h4>
-  <progress value="85" max="100" style="width: 100%;"></progress>
+<div style="background-color:#0D1117; color:white; border-radius:15px; padding:25px; width:220px; text-align:center;">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" width="60"/>
+  <h3>Postman</h3>
+  <progress value="85" max="100" style="width: 100%; height:10px;"></progress>
 </div>
 
 <!-- Git -->
-<div style="background-color:#0D1117; color:white; border-radius:10px; padding:15px; width:180px; text-align:center;">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" width="40"/>
-  <h4>Git</h4>
-  <progress value="90" max="100" style="width: 100%;"></progress>
+<div style="background-color:#0D1117; color:white; border-radius:15px; padding:25px; width:220px; text-align:center;">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" width="60"/>
+  <h3>Git</h3>
+  <progress value="90" max="100" style="width: 100%; height:10px;"></progress>
 </div>
 
 <!-- GitHub -->
-<div style="background-color:#0D1117; color:white; border-radius:10px; padding:15px; width:180px; text-align:center;">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" width="40"/>
-  <h4>GitHub</h4>
-  <progress value="90" max="100" style="width: 100%;"></progress>
+<div style="background-color:#0D1117; color:white; border-radius:15px; padding:25px; width:220px; text-align:center;">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" width="60"/>
+  <h3>GitHub</h3>
+  <progress value="90" max="100" style="width: 100%; height:10px;"></progress>
 </div>
 
 <!-- UI/UX Design -->
-<div style="background-color:#0D1117; color:white; border-radius:10px; padding:15px; width:180px; text-align:center;">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="40"/>
-  <h4>UI/UX Design</h4>
-  <progress value="75" max="100" style="width: 100%;"></progress>
+<div style="background-color:#0D1117; color:white; border-radius:15px; padding:25px; width:220px; text-align:center;">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="60"/>
+  <h3>UI/UX Design</h3>
+  <progress value="75" max="100" style="width: 100%; height:10px;"></progress>
 </div>
 
-<!-- Soft Skills -->
-<div style="background-color:#0D1117; color:white; border-radius:10px; padding:15px; width:180px; text-align:center;">
-  <img src="https://img.shields.io/badge/Soft_Skills-009688?style=for-the-badge" width="40"/>
-  <h4>Problem-solving</h4>
-  <progress value="90" max="100" style="width: 100%;"></progress>
+<!-- Problem-solving -->
+<div style="background-color:#0D1117; color:white; border-radius:15px; padding:25px; width:220px; text-align:center;">
+  <img src="https://img.shields.io/badge/Problem-Solving-009688?style=for-the-badge" width="60"/>
+  <h3>Problem-solving</h3>
+  <progress value="90" max="100" style="width: 100%; height:10px;"></progress>
 </div>
 
-<div style="background-color:#0D1117; color:white; border-radius:10px; padding:15px; width:180px; text-align:center;">
-  <img src="https://img.shields.io/badge/Soft_Skills-009688?style=for-the-badge" width="40"/>
-  <h4>Team Collaboration</h4>
-  <progress value="90" max="100" style="width: 100%;"></progress>
+<!-- Team Collaboration -->
+<div style="background-color:#0D1117; color:white; border-radius:15px; padding:25px; width:220px; text-align:center;">
+  <img src="https://img.shields.io/badge/Team_Collaboration-009688?style=for-the-badge" width="60"/>
+  <h3>Team Collaboration</h3>
+  <progress value="90" max="100" style="width: 100%; height:10px;"></progress>
 </div>
 
-<div style="background-color:#0D1117; color:white; border-radius:10px; padding:15px; width:180px; text-align:center;">
-  <img src="https://img.shields.io/badge/Soft_Skills-009688?style=for-the-badge" width="40"/>
-  <h4>Communication</h4>
-  <progress value="90" max="100" style="width: 100%;"></progress>
+<!-- Communication -->
+<div style="background-color:#0D1117; color:white; border-radius:15px; padding:25px; width:220px; text-align:center;">
+  <img src="https://img.shields.io/badge/Communication-009688?style=for-the-badge" width="60"/>
+  <h3>Communication</h3>
+  <progress value="90" max="100" style="width: 100%; height:10px;"></progress>
 </div>
 
-<div style="background-color:#0D1117; color:white; border-radius:10px; padding:15px; width:180px; text-align:center;">
-  <img src="https://img.shields.io/badge/Soft_Skills-009688?style=for-the-badge" width="40"/>
-  <h4>Creative Thinking</h4>
-  <progress value="90" max="100" style="width: 100%;"></progress>
+<!-- Creative Thinking -->
+<div style="background-color:#0D1117; color:white; border-radius:15px; padding:25px; width:220px; text-align:center;">
+  <img src="https://img.shields.io/badge/Creative_Thinking-009688?style=for-the-badge" width="60"/>
+  <h3>Creative Thinking</h3>
+  <progress value="90" max="100" style="width: 100%; height:10px;"></progress>
 </div>
 
 </div>
