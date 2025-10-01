@@ -35,24 +35,6 @@ Al Mansoura, Egypt
 Remote Friendly
 </span>
 
-</p>
-
-<p align="center">
-
-<span style="display:inline-block;background:#F44336;color:white;padding:10px 20px;border-radius:15px;margin:5px;box-shadow:0 4px 6px rgba(0,0,0,0.2);">
-📫 Email: <a href="mailto:Mahmoudmokhtar2001@gmail.com" style="color:white;text-decoration:none;">Mahmoudmokhtar2001@gmail.com</a>
-</span>
-
-<span style="display:inline-block;background:#00BCD4;color:white;padding:10px 20px;border-radius:15px;margin:5px;box-shadow:0 4px 6px rgba(0,0,0,0.2);">
-📞 Phone: <a href="tel:+201017900067" style="color:white;text-decoration:none;">+20 1017900067</a>
-</span>
-
-<span style="display:inline-block;background:#FF9800;color:white;padding:10px 20px;border-radius:15px;margin:5px;box-shadow:0 4px 6px rgba(0,0,0,0.2);">
-🔗 Social: <a href="https://www.linkedin.com/in/eng-mahmoud-mokhtar/" style="color:white;text-decoration:none;">LinkedIn</a> • <a href="https://twitter.com/EngMahmoudMokhtar" style="color:white;text-decoration:none;">Twitter</a>
-</span>
-
-</p>
-
 </div>
 
 <br>
