@@ -1,51 +1,66 @@
-# 👋 Hi, I'm Mahmoud Mokhtar  
-### 💻 **Mobile App Developer (Flutter)** | 🤖 **AI Graduate** | 📍 **Egypt**
+<!-- Header -->
+<h1 align="center">👋 Hi, I'm Mahmoud Mokhtar</h1>
+<h3 align="center">💻 Mobile App Developer | 🎓 AI Graduate | 📍 Egypt</h3>
 
-I build high-performance, scalable mobile applications with a strong focus on **user experience**, **clean architecture**, and **cutting-edge technologies**.  
-With a background in **Artificial Intelligence**, I merge mobile development with intelligent solutions to deliver apps that truly stand out.
+<p align="center">
+  <a href="mailto:Mahmoudmokhtar2001@gmail.com"><img src="https://img.shields.io/badge/Email-Mahmoudmokhtar2001@gmail.com-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://github.com/Eng-Mahmoud-Mokhtar"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+</p>
 
 ---
 
-## 🚀 Tech Stack & Skills  
+## 📝 Summary
+I am passionate about creating **high-performance mobile apps** with a strong focus on **user experience** and **AI integration**.  
+I build **scalable, clean, and modern apps** for Android and iOS using the latest technologies.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+---
+
+## 🛠️ Skills
+<div align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/AI%20%7C%20ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+---
+
+## 💼 Projects
+| Project | Description |
+|---------|-------------|
+| **Lumpy Skin Disease** | Veterinary app for early skin disease detection. |
+| **BioLock** | Secure personal items with fingerprint/face verification. |
+| **Cashier** | Desktop cafe management app with full order control. |
+| **WorkZone** | Biometric attendance tracking for companies. |
+| **Skin Scan Tech** | Medical app with AI-powered skin analysis and chatbot. |
+| **Kayan** | Sports booking app for football fields, gyms, and pools. |
+| **Building Knowledge** | Real estate app with integrated services and subscriptions. |
+| **Tamanena** | Islamic app with Quran, Azkar, prayer times, and alerts. |
+| **YIACO** | Car parking app with valet services and barcode security. |
+| **MoviesApp** | Movies & series exploration, streaming, and download. |
+| **OEMDOC** | Automotive app for Syria, Lebanon, Jordan car checking and parts. |
+| **Manarah** | Islamic app with offline Quran, Tasbeeh, Azkar, prayer tracking. |
+
+---
+
+## 📈 Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eng-Mahmoud-Mokhtar&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-Mahmoud-Mokhtar&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 📊 What I Do  
-
-- 📱 **Mobile Apps (Flutter/Dart)** → Full-stack mobile development, state management, clean UI/UX.  
-- ⚙️ **Backend Integration** → REST APIs, Firebase, real-time databases.  
-- 🧠 **Artificial Intelligence** → Applying ML/AI models into real-world apps.  
-- 🚀 **Performance Optimization** → Smooth, scalable, and user-friendly experiences.  
+## 📫 Contact Me
+- Email: Mahmoudmokhtar2001@gmail.com
+- Phone: 01017900067
+- GitHub: [Eng-Mahmoud-Mokhtar](https://github.com/Eng-Mahmoud-Mokhtar)
 
 ---
 
-## 🌟 GitHub Stats  
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eng-Mahmoud-Mokhtar&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-Mahmoud-Mokhtar&layout=compact&theme=tokyonight" alt="Top Languages" height="160" />
-</p>
-
----
-
-## 📫 Connect with Me  
-
-<p align="center">
-  <a href="https://linkedin.com/in/eng-mahmoud-mokhtar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:eng.mahmoudmokhtar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Eng-Mahmoud-Mokhtar">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" />
 </p>
