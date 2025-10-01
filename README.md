@@ -1,42 +1,34 @@
 <div align="center">
 
 # 👨‍💻 Mahmoud Mokhtar
-**🚀 Professional Flutter Developer | BSc in AI | 2+ Years of Production Experience**
+### 🚀 Professional Flutter Developer | BSc in AI | 2+ Years of Production Experience
 
-<p>
-  <a href="https://github.com/Eng-Mahmoud-Mokhtar">
-    <img src="https://img.shields.io/badge/Experience-2%2B%20Years-blue?style=for-the-badge&logo=rocket&logoColor=white" alt="Experience"/>
-  </a>
-  <a href="https://github.com/Eng-Mahmoud-Mokhtar">
-    <img src="https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  </a>
-  <a href="https://github.com/Eng-Mahmoud-Mokhtar?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-12%2B-success?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
-  </a>
-  <a href="https://github.com/Eng-Mahmoud-Mokhtar">
-    <img src="https://img.shields.io/badge/AI-Powered-FF6F00?style=for-the-badge&logo=brain&logoColor=white" alt="AI"/>
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-blue?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Projects-12%2B-success?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-Powered-FF6F00?style=for-the-badge&logo=brain&logoColor=white" />
 </p>
 
----
+<br>
 
-### 🎯 Current Role
-**Team Lead @ TREND SOCIAL**
+<p align="center">
+  <strong>🎯 Current Role:</strong> Team Lead @ TREND SOCIAL &nbsp;&nbsp;|&nbsp;&nbsp;
+  <strong>🎓 Education:</strong> Bachelor's in AI &nbsp;&nbsp;|&nbsp;&nbsp;
+  <strong>📍 Location:</strong> Al Mansoura, Egypt (Remote Friendly)
+</p>
 
-### 🎓 Education
-Bachelor's in Artificial Intelligence
+<br>
 
-### 📍 Location
-Al Mansoura, Egypt | 🌍 Open to Remote Opportunities
-
-### 📫 Contact Me
-- **Email:** [Mahmoudmokhtar2001@gmail.com](mailto:Mahmoudmokhtar2001@gmail.com)  
-- **Phone:** [+20 1017900067](tel:+201017900067)  
-- **LinkedIn:** [Profile](https://www.linkedin.com/in/eng-mahmoud-mokhtar/)  
-- **Twitter:** [@EngMahmoudMokhtar](https://twitter.com/EngMahmoudMokhtar)
+<p align="center">
+  <strong>📫 Email:</strong> <a href="mailto:Mahmoudmokhtar2001@gmail.com">Mahmoudmokhtar2001@gmail.com</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <strong>📞 Phone:</strong> <a href="tel:+201017900067">+20 1017900067</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <strong>🔗 Social:</strong> 
+  <a href="https://www.linkedin.com/in/eng-mahmoud-mokhtar/">LinkedIn</a> • 
+  <a href="https://twitter.com/EngMahmoudMokhtar">Twitter</a>
+</p>
 
 </div>
-
 
 ---
 
