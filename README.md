@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 # 🤖 Mahmoud Mokhtar
 
 ### AI-Driven Flutter Developer | Building Intelligent Mobile Apps
@@ -27,9 +27,7 @@
 > 💡 Passionate about creating innovative solutions across Healthcare, Sports, Real Estate & Islamic apps
 
 <div align="center">
-  
-### 📍 Al Mansoura, Egypt | 📧 [Mahmoudmokhtar2001@gmail.com](mailto:Mahmoudmokhtar2001@gmail.com) | 📱 01017900067
-
+📍 Al Mansoura, Egypt | 📧 [Mahmoudmokhtar2001@gmail.com](mailto:Mahmoudmokhtar2001@gmail.com) | 📱 01017900067
 </div>
 
 ---
@@ -57,22 +55,22 @@
 
 ### 🏢 Team Lead – Flutter Development
 **TREND SOCIAL** | *Aug 2025 – Present*
-- 🎯 Leading Flutter development team to deliver scalable, high-performance applications
+- 🎯 Leading a Flutter dev team delivering scalable, high-performance apps
 - 🚀 Architecting and implementing complex features with clean code practices
-- 💡 Optimizing app performance and enhancing UI/UX for superior user experiences
-- 👥 Mentoring team members and conducting code reviews
+- 💡 Optimizing UI/UX and performance for superior user experience
+- 👥 Mentoring developers & performing code reviews
 
 ### 💻 Flutter Developer | AI Engineer
-**FREELANCE** | *Oct 2023 – Apr 2025*
-- 📱 Built custom mobile applications with Flutter tailored to diverse client needs
-- 🤖 Integrated AI-driven features including computer vision and ML models
-- 🎨 Delivered pixel-perfect designs with exceptional performance
-- ⚡ Specialized in healthcare, sports, and enterprise solutions
+**Freelance** | *Oct 2023 – Apr 2025*
+- 📱 Built custom Flutter apps tailored to diverse client needs
+- 🤖 Integrated AI/ML features like computer vision and predictive models
+- 🎨 Delivered pixel-perfect designs with smooth performance
+- ⚡ Specialized in Healthcare, Sports, and Enterprise apps
 
 ### 📱 Flutter Developer
 **Comma** | *Oct 2023 – Apr 2025*
-- 🔧 Developed and optimized mobile apps, improving performance by 40%
-- 🐛 Fixed critical bugs and enhanced app stability
+- 🔧 Developed & optimized mobile apps, improving performance by 40%
+- 🐛 Fixed critical bugs & enhanced app stability
 - 🎯 Implemented new features following best practices
 
 ---
@@ -81,8 +79,7 @@
 
 **Bachelor's Degree in Artificial Intelligence Science**  
 📍 Faculty of Artificial Intelligence, Kafr El Sheikh University  
-🗓️ 2020 - Aug 2024  
-🏆 Graduated with **Very Good**
+🗓️ 2020 - Aug 2024 | 🏆 Graduated with **Very Good**
 
 ---
 
