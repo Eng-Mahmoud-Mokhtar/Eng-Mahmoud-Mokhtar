@@ -14,15 +14,6 @@
   <img src="https://img.shields.io/badge/AI-Engineer-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/Projects-12%2B-success?style=for-the-badge&logo=github&logoColor=white">
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-95%25-02569B?style=flat-square&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/Dart-90%25-0175C2?style=flat-square&logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-90%25-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-85%25-FFCA28?style=flat-square&logo=firebase&logoColor=black">
-  <img src="https://img.shields.io/badge/Kotlin-80%25-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
-</p>
-
 </div>
 
 ---
