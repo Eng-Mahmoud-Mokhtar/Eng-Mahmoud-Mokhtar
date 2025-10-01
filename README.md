@@ -5,34 +5,30 @@
 
 <p align="center" style="margin-top:10px; margin-bottom:10px;">
 
-<!-- WhatsApp -->
 <a href="https://wa.me/201017900067" target="_blank" style="margin:0 10px;">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&label=WhatsApp&logoWidth=30" />
+  <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logoWidth=30" />
 </a>
 
-<!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/mahmoud-mokhtar-0923b236b/" target="_blank" style="margin:0 10px;">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn&logoWidth=30" />
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30" />
 </a>
 
-<!-- TikTok -->
 <a href="https://www.tiktok.com/@mahmoudmokhtar919" target="_blank" style="margin:0 10px;">
-  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&label=TikTok&logoWidth=30" />
+  <img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&logoWidth=30" />
 </a>
 
-<!-- Gmail -->
 <a href="mailto:mahmoudmokhtar1212001@gmail.com" target="_blank" style="margin:0 10px;">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Email&logoWidth=30" />
+  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30" />
 </a>
 
 </p>
 
 <p align="center" style="margin-top:20px;">
 
-<img src="https://img.shields.io/badge/Experience-2%2B%20Years-1E88E5?style=for-the-badge&logo=rocket&logoColor=white&label=Experience&logoWidth=30" style="margin:0 10px;" />
-<img src="https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter&logoColor=white&label=Flutter&logoWidth=30" style="margin:0 10px;" />
-<img src="https://img.shields.io/badge/Projects-12%2B-2E7D32?style=for-the-badge&logo=github&logoColor=white&label=Projects&logoWidth=30" style="margin:0 10px;" />
-<img src="https://img.shields.io/badge/AI-Powered-FF6F00?style=for-the-badge&logo=brain&logoColor=white&label=AI&logoWidth=30" style="margin:0 10px;" />
+<img src="https://img.shields.io/badge/-Experience-1E88E5?style=for-the-badge&logo=rocket&logoColor=white&logoWidth=30" style="margin:0 10px;" />
+<img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&logoWidth=30" style="margin:0 10px;" />
+<img src="https://img.shields.io/badge/-Projects-2E7D32?style=for-the-badge&logo=github&logoColor=white&logoWidth=30" style="margin:0 10px;" />
+<img src="https://img.shields.io/badge/-AI-FF6F00?style=for-the-badge&logo=brain&logoColor=white&logoWidth=30" style="margin:0 10px;" />
 
 </p>
 
