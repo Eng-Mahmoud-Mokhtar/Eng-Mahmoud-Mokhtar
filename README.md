@@ -139,23 +139,6 @@
 
 ---
 
-## 📊 Impact by Numbers
-
-<div align="center">
-
-| 🎯 Metric | 📈 Value |
-|:----------|:---------|
-| **Production Apps** | 12+ Deployed |
-| **Domains Covered** | Healthcare, Security, Sports, Business, Islamic, Entertainment |
-| **Team Leadership** | Leading Flutter team at TREND SOCIAL |
-| **Performance Optimization** | 40%+ improvement in app performance |
-| **Client Satisfaction** | 100% in freelance projects |
-| **Cross-Platform** | iOS, Android & Desktop |
-
-</div>
-
----
-
 ## 💡 Why Companies Choose Me
 
 <table>
