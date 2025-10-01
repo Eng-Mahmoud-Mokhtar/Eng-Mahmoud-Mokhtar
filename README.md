@@ -1,10 +1,9 @@
 <div align="center">
 
 # 👨‍💻 Mahmoud Mokhtar
+**🚀 Professional Flutter Developer | BSc in AI | 2+ Years of Production Experience**
 
-### 🚀 Professional Flutter Developer | BSc in AI | 2+ Years of Production Experience
-
-<p align="center">
+<p>
   <a href="https://github.com/Eng-Mahmoud-Mokhtar">
     <img src="https://img.shields.io/badge/Experience-2%2B%20Years-blue?style=for-the-badge&logo=rocket&logoColor=white" alt="Experience"/>
   </a>
@@ -19,30 +18,22 @@
   </a>
 </p>
 
-</div>
-
 ---
 
-<div align="center">
+### 🎯 Current Role
+**Team Lead @ TREND SOCIAL**
 
-### 🎯 Current Role: **Team Lead @ TREND SOCIAL**  
-### 🎓 Education: Bachelor's in Artificial Intelligence  
-### 📍 Location: Al Mansoura, Egypt | 🌍 Open to Remote Opportunities
+### 🎓 Education
+Bachelor's in Artificial Intelligence
 
-<p align="center">
-  <a href="mailto:Mahmoudmokhtar2001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Mahmoudmokhtar2001%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="tel:+201017900067">
-    <img src="https://img.shields.io/badge/Phone-+20%201017900067-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone"/>
-  </a>
-  <a href="https://www.linkedin.com/in/eng-mahmoud-mokhtar/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/EngMahmoudMokhtar">
-    <img src="https://img.shields.io/badge/Twitter-@EngMahmoudMokhtar-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-</p>
+### 📍 Location
+Al Mansoura, Egypt | 🌍 Open to Remote Opportunities
+
+### 📫 Contact Me
+- **Email:** [Mahmoudmokhtar2001@gmail.com](mailto:Mahmoudmokhtar2001@gmail.com)  
+- **Phone:** [+20 1017900067](tel:+201017900067)  
+- **LinkedIn:** [Profile](https://www.linkedin.com/in/eng-mahmoud-mokhtar/)  
+- **Twitter:** [@EngMahmoudMokhtar](https://twitter.com/EngMahmoudMokhtar)
 
 </div>
 
