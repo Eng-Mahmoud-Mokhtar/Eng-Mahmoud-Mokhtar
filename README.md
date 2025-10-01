@@ -75,63 +75,46 @@
 
 ## 🛠️ Skills
 
-<div align="center">
+<div align="center" style="display:flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
 
-<!-- Flutter -->
-<p align="left">  
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<progress value="90" max="100" style="width: 100%;"></progress>
-</p>
+<!-- Flutter Development -->
+<div style="background-color:#0D1117; color:white; border-radius:10px; padding:15px; width:220px;">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" width="40"/>
+  <h3>Flutter Development</h3>
+  <p>UI implementation, clean architecture, performance optimization</p>
+  <progress value="90" max="100" style="width: 100%;"></progress>
+</div>
 
-<!-- Dart -->
-<p align="left">  
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<progress value="85" max="100" style="width: 100%;"></progress>
-</p>
+<!-- State Management -->
+<div style="background-color:#0D1117; color:white; border-radius:10px; padding:15px; width:220px;">
+  <img src="https://img.shields.io/badge/State_Management-FF6F00?style=for-the-badge" width="40"/>
+  <h3>State Management</h3>
+  <p>Provider, Bloc, GetX</p>
+  <progress value="85" max="100" style="width: 100%;"></progress>
+</div>
 
-<!-- Python -->
-<p align="left">  
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<progress value="80" max="100" style="width: 100%;"></progress>
-</p>
+<!-- Tools & Platforms -->
+<div style="background-color:#0D1117; color:white; border-radius:10px; padding:15px; width:220px;">
+  <img src="https://img.shields.io/badge/Tools_Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" width="40"/>
+  <h3>Tools & Platforms</h3>
+  <p>Firebase, REST APIs, Postman, Git, GitHub</p>
+  <progress value="85" max="100" style="width: 100%;"></progress>
+</div>
 
-<!-- Firebase -->
-<p align="left">  
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<progress value="85" max="100" style="width: 100%;"></progress>
-</p>
+<!-- UI/UX Design -->
+<div style="background-color:#0D1117; color:white; border-radius:10px; padding:15px; width:220px;">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="40"/>
+  <h3>UI/UX Design</h3>
+  <p>Figma (Intermediate level)</p>
+  <progress value="75" max="100" style="width: 100%;"></progress>
+</div>
 
-<!-- Git -->
-<p align="left">  
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<progress value="90" max="100" style="width: 100%;"></progress>
-</p>
-
-<!-- GitHub -->
-<p align="left">  
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<progress value="90" max="100" style="width: 100%;"></progress>
-</p>
-
-<!-- Add More Skills Logos -->
-<p align="left">
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-<progress value="75" max="100" style="width: 100%;"></progress>
-</p>
-
-<p align="left">
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<progress value="80" max="100" style="width: 100%;"></progress>
-</p>
-
-<p align="left">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<progress value="80" max="100" style="width: 100%;"></progress>
-</p>
-
-<p align="left">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<progress value="85" max="100" style="width: 100%;"></progress>
-</p>
+<!-- Soft Skills -->
+<div style="background-color:#0D1117; color:white; border-radius:10px; padding:15px; width:220px;">
+  <img src="https://img.shields.io/badge/Soft_Skills-009688?style=for-the-badge" width="40"/>
+  <h3>Soft Skills</h3>
+  <p>Problem-solving, Team Collaboration, Communication, Creative Thinking</p>
+  <progress value="90" max="100" style="width: 100%;"></progress>
+</div>
 
 </div>
