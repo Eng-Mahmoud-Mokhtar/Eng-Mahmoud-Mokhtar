@@ -2,7 +2,7 @@
 
 # 👨‍💻 Mahmoud Mokhtar
 
-### Flutter Team Lead | AI Engineer | 12+ Production Apps
+### Professional Flutter Developer | BSc in AI | +2 Yrs Experience
 
 [![Experience](https://img.shields.io/badge/Experience-2%2B%20Years-blue?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/Eng-Mahmoud-Mokhtar)
 [![Flutter](https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/Eng-Mahmoud-Mokhtar)
@@ -22,16 +22,6 @@
 [![Phone](https://img.shields.io/badge/Phone-01017900067-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:01017900067)
 
 </div>
-
----
-
-## 💼 What I Do
-
-- **Specialization:** Building high-performance, AI-powered mobile applications  
-- **Focus:** Flutter + AI/ML integration for Healthcare, FinTech & Enterprise  
-- **Architecture:** Clean Architecture, MVVM, Repository Pattern  
-- **State Management:** Bloc, Provider, GetX  
-- **Platforms:** iOS, Android, Desktop (Windows, macOS, Linux)
 
 ---
 
