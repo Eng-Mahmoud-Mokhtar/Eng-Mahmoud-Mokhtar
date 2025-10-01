@@ -11,8 +11,8 @@
 ---
 
 ## 📝 Summary
-I am passionate about creating **high-performance mobile apps** with a strong focus on **user experience** and **AI integration**.  
-I build **scalable, clean, and modern apps** for Android and iOS using the latest technologies, incorporating AI to enhance functionality and usability.
+I create **high-performance mobile apps** with **AI integration**, delivering **modern, scalable, and user-friendly solutions**.  
+Focused on **Android & iOS** development with clean architecture and intuitive UI/UX.
 
 ---
 
@@ -33,41 +33,54 @@ I build **scalable, clean, and modern apps** for Android and iOS using the lates
 ## 💼 Projects
 <div align="center">
 
-### 🐄 Lumpy Skin Disease  
-Veterinary app for early skin disease detection.  
-
-### 🔒 BioLock  
-Secure personal items with fingerprint/face verification.  
-
-### ☕ Cashier  
-Desktop cafe management app with full order control.  
-
-### 🕒 WorkZone  
-Biometric attendance tracking for companies.  
-
-### 🩺 Skin Scan Tech  
-Medical app with AI-powered skin analysis and chatbot.  
-
-### ⚽ Kayan  
-Sports booking app for football fields, gyms, and pools.  
-
-### 🏢 Building Knowledge  
-Real estate app with integrated services and subscriptions.  
-
-### 📿 Tamanena  
-Islamic app with Quran, Azkar, prayer times, and alerts.  
-
-### 🚗 YIACO  
-Car parking app with valet services and barcode security.  
-
-### 🎬 MoviesApp  
-Movies & series exploration, streaming, and download.  
-
-### 🚙 OEMDOC  
-Automotive app for Syria, Lebanon, Jordan car checking and parts.  
-
-### 🕌 Manarah  
-Islamic app with offline Quran, Tasbeeh, Azkar, prayer tracking.
+<div align="left">
+**🐄 Lumpy Skin Disease**  
+_Veterinary app for early skin disease detection._  
+</div>
+<div align="left">
+**🔒 BioLock**  
+_Secure personal items with fingerprint/face verification._  
+</div>
+<div align="left">
+**☕ Cashier**  
+_Desktop cafe management app with full order control._  
+</div>
+<div align="left">
+**🕒 WorkZone**  
+_Biometric attendance tracking for companies._  
+</div>
+<div align="left">
+**🩺 Skin Scan Tech**  
+_Medical app with AI-powered skin analysis and chatbot._  
+</div>
+<div align="left">
+**⚽ Kayan**  
+_Sports booking app for football fields, gyms, and pools._  
+</div>
+<div align="left">
+**🏢 Building Knowledge**  
+_Real estate app with integrated services and subscriptions._  
+</div>
+<div align="left">
+**📿 Tamanena**  
+_Islamic app with Quran, Azkar, prayer times, and alerts._  
+</div>
+<div align="left">
+**🚗 YIACO**  
+_Car parking app with valet services and barcode security._  
+</div>
+<div align="left">
+**🎬 MoviesApp**  
+_Movies & series exploration, streaming, and download._  
+</div>
+<div align="left">
+**🚙 OEMDOC**  
+_Automotive app for Syria, Lebanon, Jordan car checking and parts._  
+</div>
+<div align="left">
+**🕌 Manarah**  
+_Islamic app with offline Quran, Tasbeeh, Azkar, prayer tracking._  
+</div>
 
 </div>
 
@@ -83,9 +96,10 @@ Islamic app with offline Quran, Tasbeeh, Azkar, prayer tracking.
 
 ## 📫 Contact Me
 <div align="center">
-- 📧 Email: Mahmoudmokhtar2001@gmail.com  
-- 📱 Phone: 01017900067  
-- 🔗 GitHub: [Eng-Mahmoud-Mokhtar](https://github.com/Eng-Mahmoud-Mokhtar)
+  <a href="mailto:Mahmoudmokhtar2001@gmail.com"><img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="tel:+201017900067"><img src="https://img.shields.io/badge/Phone-01017900067-green?style=for-the-badge&logo=android" /></a>
+  <a href="https://github.com/Eng-Mahmoud-Mokhtar"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
 </div>
 
 ---
