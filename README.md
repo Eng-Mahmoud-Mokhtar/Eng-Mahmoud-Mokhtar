@@ -89,15 +89,61 @@ Figma & design accurate implementation
 
 ---
 
+---
+
 ## 📈 GitHub Activity
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<div align="center">
 
-<!-- GitHub Stats Badge -->
-<img src="https://github-readme-stats.vercel.app/api?username=Eng-Mahmoud-Mokhtar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&hide=stars,followers" alt="GitHub Stats" style="width: 330px; height: 150px;" />
+<table style="border-spacing: 10px; border-collapse: separate;">
+  <tr>
+    <!-- GitHub Stats Table -->
+    <td>
+      <table style="width: 330px; height: 150px; text-align: center; background-color: #1a1b26; border-radius: 10px; color: white;">
+        <tr>
+          <th colspan="2">GitHub Stats</th>
+        </tr>
+        <tr>
+          <td>Total Repositories</td>
+          <td>14</td>
+        </tr>
+        <tr>
+          <td>Commits</td>
+          <td>...</td>
+        </tr>
+      </table>
+    </td>
 
-<!-- Custom Streak Badge -->
-<img src="https://img.shields.io/badge/Current_Streak-700%20days-tokyonight?style=for-the-badge" alt="Current Streak" style="width: 330px; height: 150px;" />
+    <!-- GitHub Streak Table -->
+    <td>
+      <table style="width: 330px; height: 150px; text-align: center; background-color: #1a1b26; border-radius: 10px; color: white;">
+        <tr>
+          <th colspan="7">GitHub Streak</th>
+        </tr>
+        <!-- كل صف يمثل أسبوع -->
+        <tr>
+          <td style="background-color: #444;"></td>
+          <td style="background-color: #444;"></td>
+          <td style="background-color: #888;"></td>
+          <td style="background-color: #888;"></td>
+          <td style="background-color: #bbb;"></td>
+          <td style="background-color: #bbb;"></td>
+          <td style="background-color: #444;"></td>
+        </tr>
+        <tr>
+          <td style="background-color: #444;"></td>
+          <td style="background-color: #888;"></td>
+          <td style="background-color: #bbb;"></td>
+          <td style="background-color: #bbb;"></td>
+          <td style="background-color: #888;"></td>
+          <td style="background-color: #444;"></td>
+          <td style="background-color: #444;"></td>
+        </tr>
+        <!-- تقدر تضيف صفوف زيادة حسب الحاجة -->
+      </table>
+    </td>
+  </tr>
+</table>
 
 </div>
 
