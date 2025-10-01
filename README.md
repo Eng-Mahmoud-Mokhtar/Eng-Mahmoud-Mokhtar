@@ -37,15 +37,33 @@
 
 <div align="center">
 
-### 🚀 Tech Stack
+### 🚀 Flutter Tech Stack
 
+**Framework & Language**  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**State Management**  
+![Bloc](https://img.shields.io/badge/Bloc-000000?style=for-the-badge&logo=flutter&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-42A5F5?style=for-the-badge&logo=flutter&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-FF6F00?style=for-the-badge&logo=flutter&logoColor=white)
+
+**Backend & Database**  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Cloud Firestore](https://img.shields.io/badge/Cloud_Firestore-FFA000?style=for-the-badge&logo=googlecloud&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+**Architecture & Patterns**  
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-6A1B9A?style=for-the-badge)
+![MVVM](https://img.shields.io/badge/MVVM-00897B?style=for-the-badge)
+![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-FF5722?style=for-the-badge)
+
+**Platforms**  
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Desktop](https://img.shields.io/badge/Desktop-607D8B?style=for-the-badge)
+
 
 </div>
 
