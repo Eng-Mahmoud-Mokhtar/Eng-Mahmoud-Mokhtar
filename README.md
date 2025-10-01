@@ -6,27 +6,33 @@
 <p align="center">
 
 <!-- WhatsApp -->
-<a href="https://wa.me/201017900067" target="_blank" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/201017900067" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 <!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/mahmoud-mokhtar-0923b236b/" target="_blank" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/mahmoud-mokhtar-0923b236b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <!-- TikTok -->
-<a href="https://www.tiktok.com/@mahmoudmokhtar919" target="_blank" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/TikTok-Profile-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+<a href="https://www.tiktok.com/@mahmoudmokhtar919" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
 </a>
 
 <!-- Gmail -->
-<a href="mailto:mahmoudmokhtar1212001@gmail.com" target="_blank" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:mahmoudmokhtar1212001@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-1E88E5?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Projects-12%2B-2E7D32?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-Powered-FF6F00?style=for-the-badge&logo=brain&logoColor=white" />
+</p>
 
 </div>
 
