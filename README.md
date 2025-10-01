@@ -23,15 +23,6 @@
 
 </p>
 
-<p align="center" style="margin-top:20px;">
-
-<img src="https://img.shields.io/badge/-Experience-1E88E5?style=for-the-badge&logo=rocket&logoColor=white&logoWidth=30" style="margin:0 10px;" />
-<img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&logoWidth=30" style="margin:0 10px;" />
-<img src="https://img.shields.io/badge/-Projects-2E7D32?style=for-the-badge&logo=github&logoColor=white&logoWidth=30" style="margin:0 10px;" />
-<img src="https://img.shields.io/badge/-AI-FF6F00?style=for-the-badge&logo=brain&logoColor=white&logoWidth=30" style="margin:0 10px;" />
-
-</p>
-
 </div>
 
 ---
