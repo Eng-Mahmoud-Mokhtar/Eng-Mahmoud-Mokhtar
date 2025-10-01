@@ -12,29 +12,6 @@
 
 <br>
 
----
-
-<div align="center">
-
-# 🎯 About Me
-<p align="center">
-
-<span style="display:inline-block;background:#4CAF50;color:white;padding:10px 20px;border-radius:15px;margin:5px;box-shadow:0 4px 6px rgba(0,0,0,0.2);">
-Team Lead at TREND SOCIAL & Comma
-</span>
-
-<span style="display:inline-block;background:#2196F3;color:white;padding:10px 20px;border-radius:15px;margin:5px;box-shadow:0 4px 6px rgba(0,0,0,0.2);">
-Bachelor's in AI
-</span>
-
-<span style="display:inline-block;background:#FF9800;color:white;padding:10px 20px;border-radius:15px;margin:5px;box-shadow:0 4px 6px rgba(0,0,0,0.2);">
-Al Mansoura, Egypt
-</span>
-
-<span style="display:inline-block;background:#9C27B0;color:white;padding:10px 20px;border-radius:15px;margin:5px;box-shadow:0 4px 6px rgba(0,0,0,0.2);">
-Remote Friendly
-</span>
-
 </div>
 
 <br>
