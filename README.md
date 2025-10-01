@@ -100,10 +100,11 @@ Figma & design accurate implementation
 <!-- GitHub Stats Badge (مختصر: Total Repositories + Commits فقط) -->
 <img src="https://github-readme-stats.vercel.app/api?username=Eng-Mahmoud-Mokhtar&show_icons=true&theme=tokyonight&count_private=true&hide=stars,followers&hide_rank=true" alt="GitHub Stats" style="width: 330px; height: 150px;" />
 
-<!-- GitHub Streak Badge -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-Mahmoud-Mokhtar&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="width: 330px; height: 150px;" />
+<!-- GitHub Streak Badge مع نشاط عالي جدًا (سنتين ونصف ~ 912 يوم) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-Mahmoud-Mokhtar&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" style="width: 330px; height: 150px;" />
 
 </div>
+
 
 ---
 
