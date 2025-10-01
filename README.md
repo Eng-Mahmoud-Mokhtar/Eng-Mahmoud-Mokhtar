@@ -4,24 +4,27 @@
 ### 🚀 Professional Flutter Developer | BSc in AI | 2+ Years of Production Experience
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-1E88E5?style=for-the-badge&logo=rocket&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Projects-12%2B-2E7D32?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-Powered-FF6F00?style=for-the-badge&logo=brain&logoColor=white" />
+  <a href="https://wa.me/201017900067" target="_blank">
+    <img src="https://img.shields.io/badge/📞 WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mahmoud-mokhtar-0923b236b/" target="_blank">
+    <img src="https://img.shields.io/badge/🔗 LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@mahmoudmokhtar919" target="_blank">
+    <img src="https://img.shields.io/badge🎵-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+  <a href="mailto:mahmoudmokhtar1212001@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/📫 Email-Send-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <br>
 
-</div>
-
-<br>
-
 <p align="center">
-  <strong>📫 Email:</strong> <a href="mailto:Mahmoudmokhtar2001@gmail.com">Mahmoudmokhtar2001@gmail.com</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <strong>📞 Phone:</strong> <a href="tel:+201017900067">+20 1017900067</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <strong>🔗 Social:</strong> 
-  <a href="https://www.linkedin.com/in/eng-mahmoud-mokhtar/">LinkedIn</a> • 
-  <a href="https://twitter.com/EngMahmoudMokhtar">Twitter</a>
+  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-1E88E5?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Projects-12%2B-2E7D32?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-Powered-FF6F00?style=for-the-badge&logo=brain&logoColor=white" />
 </p>
 
 </div>
