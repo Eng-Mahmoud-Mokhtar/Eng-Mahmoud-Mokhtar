@@ -91,11 +91,11 @@ Figma & design accurate implementation
 
 ## 📈 GitHub Activity
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Eng-Mahmoud-Mokhtar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-Mahmoud-Mokhtar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-Mahmoud-Mokhtar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Eng-Mahmoud-Mokhtar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" style="width: 330px;" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-Mahmoud-Mokhtar&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="width: 330px;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-Mahmoud-Mokhtar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" style="width: 330px;" />
 
 </div>
 
