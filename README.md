@@ -95,13 +95,13 @@ Figma & design accurate implementation
 
 ## 📈 GitHub Activity
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; width: 100%; gap: 0;">
 
-<!-- GitHub Stats Badge (مختصر: Total Repositories + Commits فقط) -->
-<img src="https://github-readme-stats.vercel.app/api?username=Eng-Mahmoud-Mokhtar&show_icons=true&theme=tokyonight&count_private=true&hide=stars,followers&hide_rank=true" alt="GitHub Stats" style="width: 330px; height: 150px;" />
+<!-- GitHub Stats Badge -->
+<img src="https://github-readme-stats.vercel.app/api?username=Eng-Mahmoud-Mokhtar&show_icons=true&theme=tokyonight&count_private=true&hide=stars,followers&hide_rank=true" alt="GitHub Stats" style="width: 50%; height: 150px;" />
 
-<!-- GitHub Streak Badge مع نشاط عالي جدًا (سنتين ونصف ~ 912 يوم) -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-Mahmoud-Mokhtar&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" style="width: 330px; height: 150px;" />
+<!-- GitHub Streak Badge -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-Mahmoud-Mokhtar&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" style="width: 50%; height: 150px;" />
 
 </div>
 
