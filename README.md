@@ -34,16 +34,83 @@
 
 ---
 
-## 🛠 Core Skills
-<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; padding: 20px;">
-  <span style="background:#2C5364; padding:12px 18px; border-radius:50px; color:#FFFFFF; font-weight:600;">Flutter 🖤 95%</span>
-  <span style="background:#2C5364; padding:12px 18px; border-radius:50px; color:#FFFFFF; font-weight:600;">Dart 🖤 90%</span>
-  <span style="background:#2C5364; padding:12px 18px; border-radius:50px; color:#FFFFFF; font-weight:600;">Kotlin 🖤 85%</span>
-  <span style="background:#2C5364; padding:12px 18px; border-radius:50px; color:#FFFFFF; font-weight:600;">Python 🖤 90%</span>
-  <span style="background:#2C5364; padding:12px 18px; border-radius:50px; color:#FFFFFF; font-weight:600;">Firebase 🖤 80%</span>
-  <span style="background:#2C5364; padding:12px 18px; border-radius:50px; color:#FFFFFF; font-weight:600;">REST API 🖤 85%</span>
-  <span style="background:#2C5364; padding:12px 18px; border-radius:50px; color:#FFFFFF; font-weight:600;">Figma 🖤 80%</span>
+<!-- Skills Section -->
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; padding: 20px;">
+
+  <!-- Flutter Development -->
+  <div style="background:#1C1C1C; padding:20px; border-radius:15px; box-shadow:0 6px 20px rgba(0,0,0,0.6); color:#FFFFFF;">
+    <div style="display:flex; align-items:center; gap:10px; margin-bottom:15px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30"/>
+      <h3 style="margin:0;">Flutter Development</h3>
+    </div>
+    <p style="color:#B0C4DE; font-size:0.9em;">UI implementation, clean architecture, performance optimization.</p>
+    <div style="background:#333; border-radius:10px; overflow:hidden; margin-top:10px;">
+      <div style="width:95%; background:#FFD700; padding:5px 0; text-align:right; padding-right:10px; font-weight:bold; color:#000;">95%</div>
+    </div>
+  </div>
+
+  <!-- State Management -->
+  <div style="background:#1C1C1C; padding:20px; border-radius:15px; box-shadow:0 6px 20px rgba(0,0,0,0.6); color:#FFFFFF;">
+    <div style="display:flex; align-items:center; gap:10px; margin-bottom:15px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30"/>
+      <h3 style="margin:0;">State Management</h3>
+    </div>
+    <p style="color:#B0C4DE; font-size:0.9em;">Provider, Bloc, GetX for scalable app state control.</p>
+    <div style="background:#333; border-radius:10px; overflow:hidden; margin-top:10px;">
+      <div style="width:90%; background:#FFD700; padding:5px 0; text-align:right; padding-right:10px; font-weight:bold; color:#000;">90%</div>
+    </div>
+  </div>
+
+  <!-- Tools & Platforms -->
+  <div style="background:#1C1C1C; padding:20px; border-radius:15px; box-shadow:0 6px 20px rgba(0,0,0,0.6); color:#FFFFFF;">
+    <div style="display:flex; align-items:center; gap:10px; margin-bottom:15px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="30"/>
+      <h3 style="margin:0;">Tools & Platforms</h3>
+    </div>
+    <p style="color:#B0C4DE; font-size:0.9em;">Firebase, REST APIs, Postman, Git, GitHub.</p>
+    <div style="background:#333; border-radius:10px; overflow:hidden; margin-top:10px;">
+      <div style="width:85%; background:#FFD700; padding:5px 0; text-align:right; padding-right:10px; font-weight:bold; color:#000;">85%</div>
+    </div>
+  </div>
+
+  <!-- UI/UX Design -->
+  <div style="background:#1C1C1C; padding:20px; border-radius:15px; box-shadow:0 6px 20px rgba(0,0,0,0.6); color:#FFFFFF;">
+    <div style="display:flex; align-items:center; gap:10px; margin-bottom:15px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30"/>
+      <h3 style="margin:0;">UI/UX Design</h3>
+    </div>
+    <p style="color:#B0C4DE; font-size:0.9em;">Figma (Intermediate level) for intuitive app interfaces.</p>
+    <div style="background:#333; border-radius:10px; overflow:hidden; margin-top:10px;">
+      <div style="width:80%; background:#FFD700; padding:5px 0; text-align:right; padding-right:10px; font-weight:bold; color:#000;">80%</div>
+    </div>
+  </div>
+
+  <!-- Soft Skills -->
+  <div style="background:#1C1C1C; padding:20px; border-radius:15px; box-shadow:0 6px 20px rgba(0,0,0,0.6); color:#FFFFFF;">
+    <div style="display:flex; align-items:center; gap:10px; margin-bottom:15px;">
+      <img src="https://cdn-icons-png.flaticon.com/512/2462/2462719.png" width="30"/>
+      <h3 style="margin:0;">Soft Skills</h3>
+    </div>
+    <p style="color:#B0C4DE; font-size:0.9em;">Problem-solving, Team Collaboration, Communication, Creative Thinking.</p>
+    <div style="background:#333; border-radius:10px; overflow:hidden; margin-top:10px;">
+      <div style="width:90%; background:#FFD700; padding:5px 0; text-align:right; padding-right:10px; font-weight:bold; color:#000;">90%</div>
+    </div>
+  </div>
+
+  <!-- Languages -->
+  <div style="background:#1C1C1C; padding:20px; border-radius:15px; box-shadow:0 6px 20px rgba(0,0,0,0.6); color:#FFFFFF;">
+    <div style="display:flex; align-items:center; gap:10px; margin-bottom:15px;">
+      <img src="https://cdn-icons-png.flaticon.com/512/3022/3022615.png" width="30"/>
+      <h3 style="margin:0;">Languages</h3>
+    </div>
+    <p style="color:#B0C4DE; font-size:0.9em;">English, Arabic, (add any other languages you know).</p>
+    <div style="background:#333; border-radius:10px; overflow:hidden; margin-top:10px;">
+      <div style="width:85%; background:#FFD700; padding:5px 0; text-align:right; padding-right:10px; font-weight:bold; color:#000;">85%</div>
+    </div>
+  </div>
+
 </div>
+
 
 ---
 
