@@ -1,292 +1,266 @@
-import { Github, Mail, Phone, MapPin, GraduationCap, Code, Languages } from "lucide-react";
-import { ExperienceCard } from "./components/ExperienceCard";
-import { ProjectCard } from "./components/ProjectCard";
-import { SkillCategory } from "./components/SkillCategory";
-import { Badge } from "./components/ui/badge";
-import { Separator } from "./components/ui/separator";
-import { Button } from "./components/ui/button";
+<div align="center">
 
-export default function App() {
-  const experiences = [
-    {
-      company: "TREND SOCIAL",
-      role: "Team Lead – Flutter Development",
-      period: "Aug 2025 – Present",
-      responsibilities: [
-        "Led a Flutter team to deliver scalable, high-performance apps",
-        "Enhanced apps and optimized UI/UX for better user experience"
-      ]
-    },
-    {
-      company: "FREELANCE",
-      role: "Flutter Developer | AI Engineer",
-      period: "Oct 2023 – Apr 2025",
-      responsibilities: [
-        "Built custom mobile apps with Flutter tailored to client needs",
-        "Integrated AI-driven features to improve functionality"
-      ]
-    },
-    {
-      company: "Comma",
-      role: "Flutter Developer",
-      period: "Oct 2023 – Apr 2025",
-      responsibilities: [
-        "Developed and optimized mobile apps, improving performance and fixing critical bugs"
-      ]
-    }
+# 👨‍💻 Mahmoud Mokhtar
+
+### Flutter Team Lead | AI Engineer | 12+ Production Apps
+
+[![Experience](https://img.shields.io/badge/Experience-2%2B%20Years-blue?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/Eng-Mahmoud-Mokhtar)
+[![Flutter](https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/Eng-Mahmoud-Mokhtar)
+[![Projects](https://img.shields.io/badge/Projects-12%2B-success?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eng-Mahmoud-Mokhtar)
+[![AI](https://img.shields.io/badge/AI-Powered-FF6F00?style=for-the-badge&logo=brain&logoColor=white)](https://github.com/Eng-Mahmoud-Mokhtar)
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🎯 Currently: Team Lead at **TREND SOCIAL** | 🎓 Bachelor's in AI Science
+### 📍 Al Mansoura, Egypt | 🌍 Available for Remote Work
+
+[![Email](https://img.shields.io/badge/Email-Mahmoudmokhtar2001%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Mahmoudmokhtar2001@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-01017900067-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:01017900067)
+
+</div>
+
+---
+
+## 💼 What I Do
+
+```yaml
+Specialization: Building high-performance, AI-powered mobile applications
+Focus: Flutter + AI/ML integration for Healthcare, FinTech & Enterprise
+Architecture: Clean Architecture, MVVM, Repository Pattern
+State Management: Bloc, Provider, GetX
+Platforms: iOS, Android, Desktop (Windows, macOS, Linux)
+```
+
+<div align="center">
+
+### 🚀 Tech Stack
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 Highlighted Projects
+
+<table>
+<tr>
+<td width="33%" align="center">
+<h3>🩺 Lumpy Skin Disease</h3>
+<p><strong>AI-Powered Veterinary Diagnostic</strong></p>
+<p>Early disease detection in livestock using Computer Vision & ML</p>
+<br>
+<code>Flutter</code> <code>AI/ML</code> <code>CV</code>
+</td>
+
+<td width="33%" align="center">
+<h3>🔒 BioLock</h3>
+<p><strong>Biometric Security System</strong></p>
+<p>Advanced fingerprint & face verification with encryption</p>
+<br>
+<code>Flutter</code> <code>Biometric</code> <code>Security</code>
+</td>
+
+<td width="33%" align="center">
+<h3>🔬 Skin Scan Tech</h3>
+<p><strong>Medical AI Diagnostic</strong></p>
+<p>Skin disease analysis with AI-powered chatbot support</p>
+<br>
+<code>Flutter</code> <code>Healthcare</code> <code>AI</code>
+</td>
+</tr>
+
+<tr>
+<td width="33%" align="center">
+<h3>👔 WorkZone</h3>
+<p><strong>Enterprise Attendance</strong></p>
+<p>Biometric check-in/out with geofencing technology</p>
+<br>
+<code>Flutter</code> <code>Geolocation</code> <code>Enterprise</code>
+</td>
+
+<td width="33%" align="center">
+<h3>🏟️ Kayan</h3>
+<p><strong>Sports Platform</strong></p>
+<p>Field booking, gym connections & fitness challenges</p>
+<br>
+<code>Flutter</code> <code>Booking</code> <code>Payments</code>
+</td>
+
+<td width="33%" align="center">
+<h3>💼 Cashier</h3>
+<p><strong>POS System</strong></p>
+<p>Desktop cafe management with sales & printing</p>
+<br>
+<code>Flutter Desktop</code> <code>SQLite</code> <code>POS</code>
+</td>
+</tr>
+
+<tr>
+<td width="33%" align="center">
+<h3>🕌 Tamanena</h3>
+<p><strong>Islamic Companion</strong></p>
+<p>Quran, Duas, prayer times & Qibla direction</p>
+<br>
+<code>Flutter</code> <code>Geolocation</code> <code>Islamic</code>
+</td>
+
+<td width="33%" align="center">
+<h3>🏘️ Building Knowledge</h3>
+<p><strong>Real Estate Platform</strong></p>
+<p>Property transactions with integrated services</p>
+<br>
+<code>Flutter</code> <code>Real Estate</code> <code>Maps</code>
+</td>
+
+<td width="33%" align="center">
+<h3>🚗 YIACO</h3>
+<p><strong>Smart Parking</strong></p>
+<p>Valet services with barcode & real-time tracking</p>
+<br>
+<code>Flutter</code> <code>Barcode</code> <code>Real-time</code>
+</td>
+</tr>
+</table>
+
+<div align="center">
+<sub>+3 more production apps in Entertainment & Automotive sectors</sub>
+</div>
+
+---
+
+## 📊 Impact by Numbers
+
+<div align="center">
+
+| 🎯 Metric | 📈 Value |
+|:----------|:---------|
+| **Production Apps** | 12+ Deployed |
+| **Domains Covered** | Healthcare, Security, Sports, Business, Islamic, Entertainment |
+| **Team Leadership** | Leading Flutter team at TREND SOCIAL |
+| **Performance Optimization** | 40%+ improvement in app performance |
+| **Client Satisfaction** | 100% in freelance projects |
+| **Cross-Platform** | iOS, Android & Desktop |
+
+</div>
+
+---
+
+## 💡 Why Companies Choose Me
+
+<table>
+<tr>
+<td width="33%" align="center">
+<h3>🏗️ Clean Code</h3>
+Maintainable, scalable architecture following SOLID principles
+</td>
+<td width="33%" align="center">
+<h3>🚀 Performance</h3>
+Optimized for 60fps+ with minimal memory footprint
+</td>
+<td width="33%" align="center">
+<h3>🤖 AI Integration</h3>
+Expertise in ML models, Computer Vision & Smart Features
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+<h3>👥 Leadership</h3>
+Team management, mentoring & code reviews
+</td>
+<td width="33%" align="center">
+<h3>⚡ Fast Delivery</h3>
+Agile workflow with consistent high-quality output
+</td>
+<td width="33%" align="center">
+<h3>🎨 Pixel Perfect</h3>
+Precise design implementation from Figma to Flutter
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Eng-Mahmoud-Mokhtar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-Mahmoud-Mokhtar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
+
+</div>
+
+---
+
+## 🎯 Core Competencies
+
+<div align="center">
+
+```dart
+class MahmoudMokhtar {
+  final skills = {
+    'mobile': ['Flutter', 'Dart', 'Kotlin', 'Native Integration'],
+    'backend': ['Firebase', 'REST APIs', 'Real-time Database'],
+    'ai_ml': ['Computer Vision', 'Image Recognition', 'ML Models'],
+    'architecture': ['Clean Architecture', 'MVVM', 'Repository Pattern'],
+    'state_management': ['Bloc', 'Provider', 'GetX'],
+    'tools': ['Git', 'Figma', 'Postman', 'CI/CD'],
+  };
+  
+  final achievements = [
+    '🏆 Team Lead at TREND SOCIAL',
+    '🎓 Bachelor in AI Science',
+    '📱 12+ Production Apps',
+    '🌟 Multi-domain Expertise',
   ];
-
-  const projects = [
-    {
-      name: "Lumpy Skin Disease",
-      description: "App for veterinarians and livestock owners to detect and monitor skin diseases in animals early and accurately.",
-      technologies: ["Flutter", "AI/ML", "Image Recognition"]
-    },
-    {
-      name: "BioLock",
-      description: "Secures personal items with fingerprint or face verification, ensuring protected access to user data.",
-      technologies: ["Flutter", "Biometric Auth", "Security"]
-    },
-    {
-      name: "Cashier",
-      description: "Desktop cafe management app handling sales, orders, table status, printing, and order tracking.",
-      technologies: ["Flutter", "Desktop", "POS System"]
-    },
-    {
-      name: "WorkZone",
-      description: "Biometric attendance app enabling check-ins/check-outs within designated company locations for accurate tracking.",
-      technologies: ["Flutter", "Geolocation", "Biometric"]
-    },
-    {
-      name: "Skin Scan Tech",
-      description: "Medical app analyzing skin images for accurate diagnosis and personalized treatment, with chatbot support.",
-      technologies: ["Flutter", "AI", "Healthcare", "Computer Vision"]
-    },
-    {
-      name: "Kayan",
-      description: "Sports app for booking football fields, organizing challenges, connecting with gyms/trainers, and pool reservations.",
-      technologies: ["Flutter", "Booking System", "Sports"]
-    },
-    {
-      name: "Building Knowledge",
-      description: "Real estate app for buying/selling properties with integrated services and flexible listing subscriptions.",
-      technologies: ["Flutter", "Real Estate", "E-commerce"]
-    },
-    {
-      name: "Tamanena",
-      description: "Islamic app offering Quran, Duas, Tasbih, Azkar, Friday Sunnah, and location-based prayer times.",
-      technologies: ["Flutter", "Islamic", "Geolocation"]
-    },
-    {
-      name: "YIACO",
-      description: "Car parking app with valet pickup, parking, return services, secure barcode identification, and real-time updates.",
-      technologies: ["Flutter", "Barcode", "Real-time Updates"]
-    },
-    {
-      name: "MoviesApp",
-      description: "App for exploring, watching, and downloading movies/series with multiple servers, smart search, and smooth interface.",
-      technologies: ["Flutter", "Media Streaming", "Search"]
-    },
-    {
-      name: "OEMDOC",
-      description: "Automotive app for Syria, Lebanon, and Jordan for checking cars by chassis, buying/selling parts, and tracking deliveries.",
-      technologies: ["Flutter", "Automotive", "E-commerce"]
-    },
-    {
-      name: "Manarah",
-      description: "Islamic app providing offline Quran, digital Tasbeeh, Azkar, prayer tracking, Qibla direction, Adhan alerts, and verse reminders.",
-      technologies: ["Flutter", "Islamic", "Offline", "Notifications"]
-    }
-  ];
-
-  const skillCategories = [
-    {
-      title: "Flutter Development",
-      skills: ["UI Implementation", "Clean Architecture", "Performance Optimization"]
-    },
-    {
-      title: "State Management",
-      skills: ["Provider", "Bloc", "GetX"]
-    },
-    {
-      title: "Tools & Platforms",
-      skills: ["Firebase", "REST APIs", "Postman", "Git", "GitHub"]
-    },
-    {
-      title: "UI/UX Design",
-      skills: ["Figma (Intermediate)"]
-    },
-    {
-      title: "Soft Skills",
-      skills: ["Problem-solving", "Team Collaboration", "Communication", "Creative Thinking"]
-    }
-  ];
-
-  return (
-    <div className="min-h-screen bg-background">
-      {/* Hero Section */}
-      <section className="border-b">
-        <div className="max-w-6xl mx-auto px-6 py-16">
-          <div className="flex items-start justify-between flex-wrap gap-6">
-            <div className="space-y-4 flex-1 min-w-[300px]">
-              <div className="flex items-center gap-3">
-                <div className="w-16 h-16 rounded-full bg-primary flex items-center justify-center">
-                  <Code className="w-8 h-8 text-primary-foreground" />
-                </div>
-                <div>
-                  <h1 className="text-4xl">Mahmoud Mokhtar</h1>
-                  <p className="text-muted-foreground mt-1">Professional Mobile Developer</p>
-                </div>
-              </div>
-              
-              <div className="flex flex-wrap gap-4 text-muted-foreground">
-                <a href="tel:01017900067" className="flex items-center gap-2 hover:text-foreground transition-colors">
-                  <Phone className="w-4 h-4" />
-                  <span>01017900067</span>
-                </a>
-                <a href="mailto:Mahmoudmokhtar2001@gmail.com" className="flex items-center gap-2 hover:text-foreground transition-colors">
-                  <Mail className="w-4 h-4" />
-                  <span>Mahmoudmokhtar2001@gmail.com</span>
-                </a>
-                <div className="flex items-center gap-2">
-                  <MapPin className="w-4 h-4" />
-                  <span>Al Mansoura, Egypt</span>
-                </div>
-              </div>
-
-              <div>
-                <Button asChild variant="default">
-                  <a href="https://github.com/Eng-Mahmoud-Mokhtar" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2">
-                    <Github className="w-4 h-4" />
-                    View GitHub Profile
-                  </a>
-                </Button>
-              </div>
-            </div>
-
-            <div className="space-y-2">
-              <Badge variant="secondary" className="px-4 py-2">2+ Years Experience</Badge>
-              <Badge variant="secondary" className="px-4 py-2">Flutter Expert</Badge>
-              <Badge variant="secondary" className="px-4 py-2">AI Engineer</Badge>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      {/* Summary Section */}
-      <section className="border-b">
-        <div className="max-w-6xl mx-auto px-6 py-12">
-          <h2 className="mb-6">Summary</h2>
-          <p className="text-muted-foreground max-w-3xl leading-relaxed">
-            Professional Mobile Developer with 2+ years of experience. Holds a Bachelor's degree in Artificial Intelligence 
-            and specializes in developing scalable, high-performance applications. Experienced in integrating smart features 
-            and optimizing app performance for seamless user experiences.
-          </p>
-        </div>
-      </section>
-
-      {/* Experience Section */}
-      <section className="border-b">
-        <div className="max-w-6xl mx-auto px-6 py-12">
-          <h2 className="mb-8">Work Experience</h2>
-          <div className="space-y-0">
-            {experiences.map((exp, index) => (
-              <ExperienceCard
-                key={index}
-                company={exp.company}
-                role={exp.role}
-                period={exp.period}
-                responsibilities={exp.responsibilities}
-              />
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* Education Section */}
-      <section className="border-b">
-        <div className="max-w-6xl mx-auto px-6 py-12">
-          <h2 className="mb-6">Education</h2>
-          <div className="flex items-start gap-4 p-6 border rounded-lg">
-            <div className="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center flex-shrink-0">
-              <GraduationCap className="w-6 h-6 text-primary" />
-            </div>
-            <div className="flex-1">
-              <h3>Bachelor's Degree in Artificial Intelligence Science</h3>
-              <p className="text-muted-foreground mt-1">Faculty of Artificial Intelligence, Kafr El Sheikh University</p>
-              <div className="flex items-center gap-4 mt-2">
-                <span className="text-muted-foreground">2020 - Aug 2024</span>
-                <Badge variant="secondary">Graduated with Very Good</Badge>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      {/* Projects Section */}
-      <section className="border-b">
-        <div className="max-w-6xl mx-auto px-6 py-12">
-          <h2 className="mb-2">Projects</h2>
-          <p className="text-muted-foreground mb-8">12 innovative mobile applications across various domains</p>
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {projects.map((project, index) => (
-              <ProjectCard
-                key={index}
-                name={project.name}
-                description={project.description}
-                technologies={project.technologies}
-              />
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* Skills Section */}
-      <section className="border-b">
-        <div className="max-w-6xl mx-auto px-6 py-12">
-          <h2 className="mb-8">Skills</h2>
-          <div className="space-y-6">
-            {skillCategories.map((category, index) => (
-              <SkillCategory
-                key={index}
-                title={category.title}
-                skills={category.skills}
-              />
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* Languages Section */}
-      <section>
-        <div className="max-w-6xl mx-auto px-6 py-12">
-          <h2 className="mb-6">Languages</h2>
-          <div className="flex gap-6">
-            <div className="flex items-center gap-3">
-              <Languages className="w-5 h-5 text-muted-foreground" />
-              <div>
-                <p>Arabic</p>
-                <p className="text-muted-foreground">Native</p>
-              </div>
-            </div>
-            <Separator orientation="vertical" className="h-12" />
-            <div className="flex items-center gap-3">
-              <Languages className="w-5 h-5 text-muted-foreground" />
-              <div>
-                <p>English</p>
-                <p className="text-muted-foreground">Intermediate</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      {/* Footer */}
-      <footer className="border-t">
-        <div className="max-w-6xl mx-auto px-6 py-8 text-center text-muted-foreground">
-          <p>© 2025 Mahmoud Mokhtar. All rights reserved.</p>
-        </div>
-      </footer>
-    </div>
-  );
 }
+```
+
+</div>
+
+---
+
+## 📬 Let's Build Something Amazing
+
+<div align="center">
+
+### I'm available for:
+✅ Full-time positions | ✅ Contract work | ✅ Technical consulting | ✅ Team leadership roles
+
+<br>
+
+<a href="mailto:Mahmoudmokhtar2001@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/Eng-Mahmoud-Mokhtar">
+  <img src="https://img.shields.io/badge/View_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="tel:01017900067">
+  <img src="https://img.shields.io/badge/Call_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+</a>
+
+<br><br>
+
+### 💬 Languages: Arabic (Native) | English (Professional)
+
+<br>
+
+**⭐ If you find my work valuable, please star my repositories!**
+
+</div>
+
+---
+
+<div align="center">
+<sub>Last updated: October 2025 | Built with 💙 using Flutter</sub>
+</div>
