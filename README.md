@@ -16,13 +16,12 @@
 <div align="center">
 
 ### 🎯 Current Role
-Team Lead at TREND SOCIAL & Comma
-
-### 🎓 Education
-Bachelor's in Artificial Intelligence
-
-### 📍 Location
-Al Mansoura, Egypt | 🌍 Remote Friendly
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Team Lead%20at%20TREND%20SOCIAL%20&%20Comma-4CAF50?style=for-the-badge&logo=briefcase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Education-Bachelor's%20in%20AI-2196F3?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Al%20Mansoura,%20Egypt-FF9800?style=for-the-badge&logo=map-marker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Remote-Friendly-9C27B0?style=for-the-badge&logo=globe&logoColor=white" />
+</p>y
 
 </div>
 </p>
