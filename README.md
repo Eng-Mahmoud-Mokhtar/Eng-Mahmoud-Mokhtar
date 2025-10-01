@@ -46,43 +46,24 @@
 
 </div>
 
-
 ---
 
-<div align="center">
-### 🚀 Flutter Skills
+## 🚀 Flutter & Mobile Skills
 
 <div align="center">
 
-<!-- Row 1 -->
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/Bloc-000000?style=for-the-badge&logo=flutter&logoColor=white" />
-
-<br><br>
-
-<!-- Row 2 -->
 <img src="https://img.shields.io/badge/Provider-42A5F5?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/GetX-FF6F00?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-
-<br><br>
-
-<!-- Row 3 -->
 <img src="https://img.shields.io/badge/Cloud_Firestore-FFA000?style=for-the-badge&logo=googlecloud&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-
-<br><br>
-
-<!-- Row 4 -->
 <img src="https://img.shields.io/badge/Clean_Architecture-6A1B9A?style=for-the-badge" />
 <img src="https://img.shields.io/badge/MVVM-00897B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Repository_Pattern-FF5722?style=for-the-badge" />
-
-<br><br>
-
-<!-- Row 5 -->
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 <img src="https://img.shields.io/badge/Desktop-607D8B?style=for-the-badge" />
@@ -93,11 +74,13 @@
 
 ## 💡 Why Companies Choose Me
 
+<div align="center">
+
 <table>
 <tr>
 <td width="33%" align="center">
 <h3>🏗️ Clean Code</h3>
-Maintainable, scalable architecture following SOLID principles
+Maintainable & scalable architecture following SOLID principles
 </td>
 <td width="33%" align="center">
 <h3>🚀 Performance</h3>
@@ -105,7 +88,7 @@ Optimized for 60fps+ with minimal memory footprint
 </td>
 <td width="33%" align="center">
 <h3>🤖 AI Integration</h3>
-Expertise in ML models, Computer Vision & Smart Features
+ML models, Computer Vision & smart features implementation
 </td>
 </tr>
 <tr>
@@ -119,10 +102,12 @@ Agile workflow with consistent high-quality output
 </td>
 <td width="33%" align="center">
 <h3>🎨 Pixel Perfect</h3>
-Precise design implementation from Figma to Flutter
+Accurate implementation from Figma/Design to Flutter
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -142,7 +127,7 @@ Precise design implementation from Figma to Flutter
 <div align="center">
 
 ### I'm available for:
-✅ Full-time positions | ✅ Contract work | ✅ Technical consulting | ✅ Team leadership roles
+✅ Full-time | ✅ Contract | ✅ Technical consulting | ✅ Team leadership
 
 <br>
 
@@ -158,11 +143,12 @@ Precise design implementation from Figma to Flutter
 
 <br><br>
 
-### 💬 Languages: Arabic (Native) | English (Professional)
+### 💬 Languages:
+**Arabic (Native)** | **English (Professional)**
 
 <br>
 
-**⭐ If you find my work valuable, please star my repositories!**
+**⭐ If you like my work, please ⭐ star my repositories!**
 
 </div>
 
