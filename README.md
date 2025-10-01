@@ -91,62 +91,19 @@ Figma & design accurate implementation
 
 ---
 
+---
+
 ## 📈 GitHub Activity
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
-<table style="border-spacing: 10px; border-collapse: separate;">
-  <tr>
-    <!-- GitHub Stats Table -->
-    <td>
-      <table style="width: 330px; height: 150px; text-align: center; background-color: #1a1b26; border-radius: 10px; color: white;">
-        <tr>
-          <th colspan="2">GitHub Stats</th>
-        </tr>
-        <tr>
-          <td>Total Repositories</td>
-          <td>14</td>
-        </tr>
-        <tr>
-          <td>Commits</td>
-          <td>...</td>
-        </tr>
-      </table>
-    </td>
+<!-- GitHub Stats Badge (مختصر: Total Repositories + Commits فقط) -->
+<img src="https://github-readme-stats.vercel.app/api?username=Eng-Mahmoud-Mokhtar&show_icons=true&theme=tokyonight&count_private=true&hide=stars,followers&hide_rank=true" alt="GitHub Stats" style="width: 330px; height: 150px;" />
 
-    <!-- GitHub Streak Table -->
-    <td>
-      <table style="width: 330px; height: 150px; text-align: center; background-color: #1a1b26; border-radius: 10px; color: white;">
-        <tr>
-          <th colspan="7">GitHub Streak</th>
-        </tr>
-        <!-- كل صف يمثل أسبوع -->
-        <tr>
-          <td style="background-color: #444;"></td>
-          <td style="background-color: #444;"></td>
-          <td style="background-color: #888;"></td>
-          <td style="background-color: #888;"></td>
-          <td style="background-color: #bbb;"></td>
-          <td style="background-color: #bbb;"></td>
-          <td style="background-color: #444;"></td>
-        </tr>
-        <tr>
-          <td style="background-color: #444;"></td>
-          <td style="background-color: #888;"></td>
-          <td style="background-color: #bbb;"></td>
-          <td style="background-color: #bbb;"></td>
-          <td style="background-color: #888;"></td>
-          <td style="background-color: #444;"></td>
-          <td style="background-color: #444;"></td>
-        </tr>
-        <!-- تقدر تضيف صفوف زيادة حسب الحاجة -->
-      </table>
-    </td>
-  </tr>
-</table>
+<!-- GitHub Streak Badge -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-Mahmoud-Mokhtar&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="width: 330px; height: 150px;" />
 
 </div>
-
 
 ---
 
