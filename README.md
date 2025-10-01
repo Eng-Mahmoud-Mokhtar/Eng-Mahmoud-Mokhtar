@@ -1,135 +1,292 @@
-<!-- Hero Section -->
-<div align="center" style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding: 50px; border-radius: 20px; color: #FFFFFF; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <h1 style="font-size: 4em; font-weight: 900; margin-bottom: 10px;">Mahmoud Mokhtar</h1>
-  <h3 style="font-style: italic; color: #A0C4FF; margin-bottom: 25px;">Mobile App Developer | AI Specialist | Innovating from Egypt</h3>
-  <p style="max-width: 650px; margin: 0 auto; font-size: 1.2em; line-height: 1.5;">
-    Crafting <b>scalable, user-centric mobile applications</b> that merge <span style="color:#FFD700;">AI</span> with seamless design to solve real-world problems.
-  </p>
-  <div style="margin-top: 30px;">
-    <a href="mailto:Mahmoudmokhtar2001@gmail.com" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/Email-Mahmoudmokhtar2001@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href="https://github.com/Eng-Mahmoud-Mokhtar" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/GitHub-Eng--Mahmoud--Mokhtar-181717?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-    <a href="https://linkedin.com/in/mahmoud-mokhtar" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-  </div>
-</div>
+import { Github, Mail, Phone, MapPin, GraduationCap, Code, Languages } from "lucide-react";
+import { ExperienceCard } from "./components/ExperienceCard";
+import { ProjectCard } from "./components/ProjectCard";
+import { SkillCategory } from "./components/SkillCategory";
+import { Badge } from "./components/ui/badge";
+import { Separator } from "./components/ui/separator";
+import { Button } from "./components/ui/button";
 
----
+export default function App() {
+  const experiences = [
+    {
+      company: "TREND SOCIAL",
+      role: "Team Lead – Flutter Development",
+      period: "Aug 2025 – Present",
+      responsibilities: [
+        "Led a Flutter team to deliver scalable, high-performance apps",
+        "Enhanced apps and optimized UI/UX for better user experience"
+      ]
+    },
+    {
+      company: "FREELANCE",
+      role: "Flutter Developer | AI Engineer",
+      period: "Oct 2023 – Apr 2025",
+      responsibilities: [
+        "Built custom mobile apps with Flutter tailored to client needs",
+        "Integrated AI-driven features to improve functionality"
+      ]
+    },
+    {
+      company: "Comma",
+      role: "Flutter Developer",
+      period: "Oct 2023 – Apr 2025",
+      responsibilities: [
+        "Developed and optimized mobile apps, improving performance and fixing critical bugs"
+      ]
+    }
+  ];
 
-## 🎥 Featured Projects
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; padding: 20px;">
-  <!-- Project Card Example -->
-  <div style="background: #1C1C1C; padding: 25px; border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.6); transition: transform 0.3s ease, box-shadow 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 12px 30px rgba(0,0,0,0.8)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.6)'">
-    <h3 style="color: #FFD700; margin-bottom: 10px;">🐄 Lumpy Skin Disease Detection</h3>
-    <p style="color: #B0C4DE; font-size: 0.95em;">AI-powered veterinary app for early detection of lumpy skin disease in livestock, with real-time diagnostics and consultation features.</p>
-    <p style="color: #FFD700; font-size: 0.85em; margin-top: 10px;"><b>Tech Stack</b>: Flutter, TensorFlow, Python, Firebase</p>
-  </div>
+  const projects = [
+    {
+      name: "Lumpy Skin Disease",
+      description: "App for veterinarians and livestock owners to detect and monitor skin diseases in animals early and accurately.",
+      technologies: ["Flutter", "AI/ML", "Image Recognition"]
+    },
+    {
+      name: "BioLock",
+      description: "Secures personal items with fingerprint or face verification, ensuring protected access to user data.",
+      technologies: ["Flutter", "Biometric Auth", "Security"]
+    },
+    {
+      name: "Cashier",
+      description: "Desktop cafe management app handling sales, orders, table status, printing, and order tracking.",
+      technologies: ["Flutter", "Desktop", "POS System"]
+    },
+    {
+      name: "WorkZone",
+      description: "Biometric attendance app enabling check-ins/check-outs within designated company locations for accurate tracking.",
+      technologies: ["Flutter", "Geolocation", "Biometric"]
+    },
+    {
+      name: "Skin Scan Tech",
+      description: "Medical app analyzing skin images for accurate diagnosis and personalized treatment, with chatbot support.",
+      technologies: ["Flutter", "AI", "Healthcare", "Computer Vision"]
+    },
+    {
+      name: "Kayan",
+      description: "Sports app for booking football fields, organizing challenges, connecting with gyms/trainers, and pool reservations.",
+      technologies: ["Flutter", "Booking System", "Sports"]
+    },
+    {
+      name: "Building Knowledge",
+      description: "Real estate app for buying/selling properties with integrated services and flexible listing subscriptions.",
+      technologies: ["Flutter", "Real Estate", "E-commerce"]
+    },
+    {
+      name: "Tamanena",
+      description: "Islamic app offering Quran, Duas, Tasbih, Azkar, Friday Sunnah, and location-based prayer times.",
+      technologies: ["Flutter", "Islamic", "Geolocation"]
+    },
+    {
+      name: "YIACO",
+      description: "Car parking app with valet pickup, parking, return services, secure barcode identification, and real-time updates.",
+      technologies: ["Flutter", "Barcode", "Real-time Updates"]
+    },
+    {
+      name: "MoviesApp",
+      description: "App for exploring, watching, and downloading movies/series with multiple servers, smart search, and smooth interface.",
+      technologies: ["Flutter", "Media Streaming", "Search"]
+    },
+    {
+      name: "OEMDOC",
+      description: "Automotive app for Syria, Lebanon, and Jordan for checking cars by chassis, buying/selling parts, and tracking deliveries.",
+      technologies: ["Flutter", "Automotive", "E-commerce"]
+    },
+    {
+      name: "Manarah",
+      description: "Islamic app providing offline Quran, digital Tasbeeh, Azkar, prayer tracking, Qibla direction, Adhan alerts, and verse reminders.",
+      technologies: ["Flutter", "Islamic", "Offline", "Notifications"]
+    }
+  ];
 
-  <!-- Repeat for other projects (🔒 BioLock, ☕ Cashier, 🕒 WorkZone, ...) -->
-</div>
+  const skillCategories = [
+    {
+      title: "Flutter Development",
+      skills: ["UI Implementation", "Clean Architecture", "Performance Optimization"]
+    },
+    {
+      title: "State Management",
+      skills: ["Provider", "Bloc", "GetX"]
+    },
+    {
+      title: "Tools & Platforms",
+      skills: ["Firebase", "REST APIs", "Postman", "Git", "GitHub"]
+    },
+    {
+      title: "UI/UX Design",
+      skills: ["Figma (Intermediate)"]
+    },
+    {
+      title: "Soft Skills",
+      skills: ["Problem-solving", "Team Collaboration", "Communication", "Creative Thinking"]
+    }
+  ];
 
----
+  return (
+    <div className="min-h-screen bg-background">
+      {/* Hero Section */}
+      <section className="border-b">
+        <div className="max-w-6xl mx-auto px-6 py-16">
+          <div className="flex items-start justify-between flex-wrap gap-6">
+            <div className="space-y-4 flex-1 min-w-[300px]">
+              <div className="flex items-center gap-3">
+                <div className="w-16 h-16 rounded-full bg-primary flex items-center justify-center">
+                  <Code className="w-8 h-8 text-primary-foreground" />
+                </div>
+                <div>
+                  <h1 className="text-4xl">Mahmoud Mokhtar</h1>
+                  <p className="text-muted-foreground mt-1">Professional Mobile Developer</p>
+                </div>
+              </div>
+              
+              <div className="flex flex-wrap gap-4 text-muted-foreground">
+                <a href="tel:01017900067" className="flex items-center gap-2 hover:text-foreground transition-colors">
+                  <Phone className="w-4 h-4" />
+                  <span>01017900067</span>
+                </a>
+                <a href="mailto:Mahmoudmokhtar2001@gmail.com" className="flex items-center gap-2 hover:text-foreground transition-colors">
+                  <Mail className="w-4 h-4" />
+                  <span>Mahmoudmokhtar2001@gmail.com</span>
+                </a>
+                <div className="flex items-center gap-2">
+                  <MapPin className="w-4 h-4" />
+                  <span>Al Mansoura, Egypt</span>
+                </div>
+              </div>
 
-<!-- Skills Section -->
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; padding: 20px;">
+              <div>
+                <Button asChild variant="default">
+                  <a href="https://github.com/Eng-Mahmoud-Mokhtar" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2">
+                    <Github className="w-4 h-4" />
+                    View GitHub Profile
+                  </a>
+                </Button>
+              </div>
+            </div>
 
-  <!-- Flutter Development -->
-  <div style="background:#1C1C1C; padding:20px; border-radius:15px; box-shadow:0 6px 20px rgba(0,0,0,0.6); color:#FFFFFF;">
-    <div style="display:flex; align-items:center; gap:10px; margin-bottom:15px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30"/>
-      <h3 style="margin:0;">Flutter Development</h3>
+            <div className="space-y-2">
+              <Badge variant="secondary" className="px-4 py-2">2+ Years Experience</Badge>
+              <Badge variant="secondary" className="px-4 py-2">Flutter Expert</Badge>
+              <Badge variant="secondary" className="px-4 py-2">AI Engineer</Badge>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Summary Section */}
+      <section className="border-b">
+        <div className="max-w-6xl mx-auto px-6 py-12">
+          <h2 className="mb-6">Summary</h2>
+          <p className="text-muted-foreground max-w-3xl leading-relaxed">
+            Professional Mobile Developer with 2+ years of experience. Holds a Bachelor's degree in Artificial Intelligence 
+            and specializes in developing scalable, high-performance applications. Experienced in integrating smart features 
+            and optimizing app performance for seamless user experiences.
+          </p>
+        </div>
+      </section>
+
+      {/* Experience Section */}
+      <section className="border-b">
+        <div className="max-w-6xl mx-auto px-6 py-12">
+          <h2 className="mb-8">Work Experience</h2>
+          <div className="space-y-0">
+            {experiences.map((exp, index) => (
+              <ExperienceCard
+                key={index}
+                company={exp.company}
+                role={exp.role}
+                period={exp.period}
+                responsibilities={exp.responsibilities}
+              />
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Education Section */}
+      <section className="border-b">
+        <div className="max-w-6xl mx-auto px-6 py-12">
+          <h2 className="mb-6">Education</h2>
+          <div className="flex items-start gap-4 p-6 border rounded-lg">
+            <div className="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center flex-shrink-0">
+              <GraduationCap className="w-6 h-6 text-primary" />
+            </div>
+            <div className="flex-1">
+              <h3>Bachelor's Degree in Artificial Intelligence Science</h3>
+              <p className="text-muted-foreground mt-1">Faculty of Artificial Intelligence, Kafr El Sheikh University</p>
+              <div className="flex items-center gap-4 mt-2">
+                <span className="text-muted-foreground">2020 - Aug 2024</span>
+                <Badge variant="secondary">Graduated with Very Good</Badge>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Projects Section */}
+      <section className="border-b">
+        <div className="max-w-6xl mx-auto px-6 py-12">
+          <h2 className="mb-2">Projects</h2>
+          <p className="text-muted-foreground mb-8">12 innovative mobile applications across various domains</p>
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {projects.map((project, index) => (
+              <ProjectCard
+                key={index}
+                name={project.name}
+                description={project.description}
+                technologies={project.technologies}
+              />
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Skills Section */}
+      <section className="border-b">
+        <div className="max-w-6xl mx-auto px-6 py-12">
+          <h2 className="mb-8">Skills</h2>
+          <div className="space-y-6">
+            {skillCategories.map((category, index) => (
+              <SkillCategory
+                key={index}
+                title={category.title}
+                skills={category.skills}
+              />
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Languages Section */}
+      <section>
+        <div className="max-w-6xl mx-auto px-6 py-12">
+          <h2 className="mb-6">Languages</h2>
+          <div className="flex gap-6">
+            <div className="flex items-center gap-3">
+              <Languages className="w-5 h-5 text-muted-foreground" />
+              <div>
+                <p>Arabic</p>
+                <p className="text-muted-foreground">Native</p>
+              </div>
+            </div>
+            <Separator orientation="vertical" className="h-12" />
+            <div className="flex items-center gap-3">
+              <Languages className="w-5 h-5 text-muted-foreground" />
+              <div>
+                <p>English</p>
+                <p className="text-muted-foreground">Intermediate</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Footer */}
+      <footer className="border-t">
+        <div className="max-w-6xl mx-auto px-6 py-8 text-center text-muted-foreground">
+          <p>© 2025 Mahmoud Mokhtar. All rights reserved.</p>
+        </div>
+      </footer>
     </div>
-    <p style="color:#B0C4DE; font-size:0.9em;">UI implementation, clean architecture, performance optimization.</p>
-    <div style="background:#333; border-radius:10px; overflow:hidden; margin-top:10px;">
-      <div style="width:95%; background:#FFD700; padding:5px 0; text-align:right; padding-right:10px; font-weight:bold; color:#000;">95%</div>
-    </div>
-  </div>
-
-  <!-- State Management -->
-  <div style="background:#1C1C1C; padding:20px; border-radius:15px; box-shadow:0 6px 20px rgba(0,0,0,0.6); color:#FFFFFF;">
-    <div style="display:flex; align-items:center; gap:10px; margin-bottom:15px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30"/>
-      <h3 style="margin:0;">State Management</h3>
-    </div>
-    <p style="color:#B0C4DE; font-size:0.9em;">Provider, Bloc, GetX for scalable app state control.</p>
-    <div style="background:#333; border-radius:10px; overflow:hidden; margin-top:10px;">
-      <div style="width:90%; background:#FFD700; padding:5px 0; text-align:right; padding-right:10px; font-weight:bold; color:#000;">90%</div>
-    </div>
-  </div>
-
-  <!-- Tools & Platforms -->
-  <div style="background:#1C1C1C; padding:20px; border-radius:15px; box-shadow:0 6px 20px rgba(0,0,0,0.6); color:#FFFFFF;">
-    <div style="display:flex; align-items:center; gap:10px; margin-bottom:15px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="30"/>
-      <h3 style="margin:0;">Tools & Platforms</h3>
-    </div>
-    <p style="color:#B0C4DE; font-size:0.9em;">Firebase, REST APIs, Postman, Git, GitHub.</p>
-    <div style="background:#333; border-radius:10px; overflow:hidden; margin-top:10px;">
-      <div style="width:85%; background:#FFD700; padding:5px 0; text-align:right; padding-right:10px; font-weight:bold; color:#000;">85%</div>
-    </div>
-  </div>
-
-  <!-- UI/UX Design -->
-  <div style="background:#1C1C1C; padding:20px; border-radius:15px; box-shadow:0 6px 20px rgba(0,0,0,0.6); color:#FFFFFF;">
-    <div style="display:flex; align-items:center; gap:10px; margin-bottom:15px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30"/>
-      <h3 style="margin:0;">UI/UX Design</h3>
-    </div>
-    <p style="color:#B0C4DE; font-size:0.9em;">Figma (Intermediate level) for intuitive app interfaces.</p>
-    <div style="background:#333; border-radius:10px; overflow:hidden; margin-top:10px;">
-      <div style="width:80%; background:#FFD700; padding:5px 0; text-align:right; padding-right:10px; font-weight:bold; color:#000;">80%</div>
-    </div>
-  </div>
-
-  <!-- Soft Skills -->
-  <div style="background:#1C1C1C; padding:20px; border-radius:15px; box-shadow:0 6px 20px rgba(0,0,0,0.6); color:#FFFFFF;">
-    <div style="display:flex; align-items:center; gap:10px; margin-bottom:15px;">
-      <img src="https://cdn-icons-png.flaticon.com/512/2462/2462719.png" width="30"/>
-      <h3 style="margin:0;">Soft Skills</h3>
-    </div>
-    <p style="color:#B0C4DE; font-size:0.9em;">Problem-solving, Team Collaboration, Communication, Creative Thinking.</p>
-    <div style="background:#333; border-radius:10px; overflow:hidden; margin-top:10px;">
-      <div style="width:90%; background:#FFD700; padding:5px 0; text-align:right; padding-right:10px; font-weight:bold; color:#000;">90%</div>
-    </div>
-  </div>
-
-  <!-- Languages -->
-  <div style="background:#1C1C1C; padding:20px; border-radius:15px; box-shadow:0 6px 20px rgba(0,0,0,0.6); color:#FFFFFF;">
-    <div style="display:flex; align-items:center; gap:10px; margin-bottom:15px;">
-      <img src="https://cdn-icons-png.flaticon.com/512/3022/3022615.png" width="30"/>
-      <h3 style="margin:0;">Languages</h3>
-    </div>
-    <p style="color:#B0C4DE; font-size:0.9em;">English, Arabic, (add any other languages you know).</p>
-    <div style="background:#333; border-radius:10px; overflow:hidden; margin-top:10px;">
-      <div style="width:85%; background:#FFD700; padding:5px 0; text-align:right; padding-right:10px; font-weight:bold; color:#000;">85%</div>
-    </div>
-  </div>
-
-</div>
-
-
----
-
-## 📊 GitHub Insights
-<div align="center" style="display:flex; justify-content: center; gap:20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eng-Mahmoud-Mokhtar&show_icons=true&theme=dark" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-Mahmoud-Mokhtar&layout=compact&theme=dark" width="400"/>
-</div>
-
----
-
-## 📡 Let’s Collaborate
-<div align="center" style="background: #203A43; padding: 25px; border-radius: 15px; margin: 20px 0;">
-  <p style="color:#FFD700; font-size:1.1em; margin-bottom:10px;"><b>Email</b>: <a href="mailto:Mahmoudmokhtar2001@gmail.com" style="color:#FFFFFF;">Mahmoudmokhtar2001@gmail.com</a></p>
-  <p style="color:#FFD700; font-size:1.1em; margin-bottom:10px;"><b>Phone</b>: <a href="tel:+201017900067" style="color:#FFFFFF;">+20 101 790 0067</a></p>
-  <p style="color:#FFD700; font-size:1.1em; margin-bottom:10px;"><b>GitHub</b>: <a href="https://github.com/Eng-Mahmoud-Mokhtar" style="color:#FFFFFF;">Eng-Mahmoud-Mokhtar</a></p>
-  <p style="color:#FFD700; font-size:1.1em;"><b>LinkedIn</b>: <a href="https://linkedin.com/in/mahmoud-mokhtar" style="color:#FFFFFF;">Mahmoud Mokhtar</a></p>
-</div>
-
-<div align="center" style="color: #A0C4FF; font-style: italic; font-size: 1.2em;">
-  Innovating the future, one app at a time.
-</div>
+  );
+}
