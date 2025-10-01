@@ -27,13 +27,13 @@
 
 ## 💼 What I Do
 
-```yaml
-Specialization: Building high-performance, AI-powered mobile applications
-Focus: Flutter + AI/ML integration for Healthcare, FinTech & Enterprise
-Architecture: Clean Architecture, MVVM, Repository Pattern
-State Management: Bloc, Provider, GetX
-Platforms: iOS, Android, Desktop (Windows, macOS, Linux)
-```
+- **Specialization:** Building high-performance, AI-powered mobile applications  
+- **Focus:** Flutter + AI/ML integration for Healthcare, FinTech & Enterprise  
+- **Architecture:** Clean Architecture, MVVM, Repository Pattern  
+- **State Management:** Bloc, Provider, GetX  
+- **Platforms:** iOS, Android, Desktop (Windows, macOS, Linux)
+
+---
 
 <div align="center">
 
@@ -197,34 +197,6 @@ Precise design implementation from Figma to Flutter
 
 <img src="https://github-readme-stats.vercel.app/api?username=Eng-Mahmoud-Mokhtar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-Mahmoud-Mokhtar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
-
-</div>
-
----
-
-## 🎯 Core Competencies
-
-<div align="center">
-
-```dart
-class MahmoudMokhtar {
-  final skills = {
-    'mobile': ['Flutter', 'Dart', 'Kotlin', 'Native Integration'],
-    'backend': ['Firebase', 'REST APIs', 'Real-time Database'],
-    'ai_ml': ['Computer Vision', 'Image Recognition', 'ML Models'],
-    'architecture': ['Clean Architecture', 'MVVM', 'Repository Pattern'],
-    'state_management': ['Bloc', 'Provider', 'GetX'],
-    'tools': ['Git', 'Figma', 'Postman', 'CI/CD'],
-  };
-  
-  final achievements = [
-    '🏆 Team Lead at TREND SOCIAL',
-    '🎓 Bachelor in AI Science',
-    '📱 12+ Production Apps',
-    '🌟 Multi-domain Expertise',
-  ];
-}
-```
 
 </div>
 
