@@ -4,34 +4,40 @@
 ### 🚀 Professional Flutter Developer | BSc in AI | 2+ Years of Production Experience
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-blue?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-1E88E5?style=for-the-badge&logo=rocket&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Projects-12%2B-success?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Projects-12%2B-2E7D32?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/AI-Powered-FF6F00?style=for-the-badge&logo=brain&logoColor=white" />
 </p>
 
 <br>
 
+---
+
+### 🎯 About Me
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <span style="display: inline-block; background: linear-gradient(45deg, #4CAF50, #81C784); color: white; padding: 12px 24px; border-radius: 25px; margin: 5px; font-size: 14px; font-weight: 500; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    🎯 Team Lead at TREND SOCIAL & Comma
+  </span>
+  <span style="display: inline-block; background: linear-gradient(45deg, #2196F3, #64B5F6); color: white; padding: 12px 24px; border-radius: 25px; margin: 5px; font-size: 14px; font-weight: 500; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    🎓 Bachelor's in AI
+  </span>
+  <span style="display: inline-block; background: linear-gradient(45deg, #FF9800, #FFB74D); color: white; padding: 12px 24px; border-radius: 25px; margin: 5px; font-size: 14px; font-weight: 500; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    📍 Al Mansoura, Egypt
+  </span>
+  <span style="display: inline-block; background: linear-gradient(45deg, #9C27B0, #BA68C8); color: white; padding: 12px 24px; border-radius: 25px; margin: 5px; font-size: 14px; font-weight: 500; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    🌍 Remote Friendly
+  </span>
+</div>
+
+<br>
+
 <p align="center">
-<div align="center">
-
-### 🎯 Current Role
-<span style="display:inline-block;background:#4CAF50;color:white;padding:10px 20px;border-radius:15px;margin:5px;box-shadow:0 4px 6px rgba(0,0,0,0.2);">
-🎯 Team Lead at TREND SOCIAL & Comma
-</span>
-
-<span style="display:inline-block;background:#2196F3;color:white;padding:10px 20px;border-radius:15px;margin:5px;box-shadow:0 4px 6px rgba(0,0,0,0.2);">
-🎓 Bachelor's in AI
-</span>
-
-<span style="display:inline-block;background:#FF9800;color:white;padding:10px 20px;border-radius:15px;margin:5px;box-shadow:0 4px 6px rgba(0,0,0,0.2);">
-📍 Al Mansoura, Egypt
-</span>
-
-<span style="display:inline-block;background:#9C27B0;color:white;padding:10px 20px;border-radius:15px;margin:5px;box-shadow:0 4px 6px rgba(0,0,0,0.2);">
-🌍 Remote Friendly
-</span>
-
+  <strong>📫 Email:</strong> <a href="mailto:Mahmoudmokhtar2001@gmail.com" style="color: #80D8FF; text-decoration: none;">Mahmoudmokhtar2001@gmail.com</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <strong>📞 Phone:</strong> <a href="tel:+201017900067" style="color: #80D8FF; text-decoration: none;">+20 1017900067</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <strong>🔗 Social:</strong> 
+  <a href="https://www.linkedin.com/in/eng-mahmoud-mokhtar/" style="color: #80D8FF; text-decoration: none;">LinkedIn</a> • 
+  <a href="https://twitter.com/EngMahmoudMokhtar" style="color: #80D8FF; text-decoration: none;">Twitter</a>
 </p>
 
 
