@@ -16,19 +16,22 @@
 <div align="center">
 
 ### 🎯 Current Role
-<p align="center">
-  <span style="background-color:#4CAF50;color:white;padding:6px 12px;border-radius:12px;margin:4px;">
-    🎯 Team Lead at TREND SOCIAL & Comma
-  </span>
-  <span style="background-color:#2196F3;color:white;padding:6px 12px;border-radius:12px;margin:4px;">
-    🎓 Bachelor's in AI
-  </span>
-  <span style="background-color:#FF9800;color:white;padding:6px 12px;border-radius:12px;margin:4px;">
-    📍 Al Mansoura, Egypt
-  </span>
-  <span style="background-color:#9C27B0;color:white;padding:6px 12px;border-radius:12px;margin:4px;">
-    🌍 Remote Friendly
-  </span>
+<span style="display:inline-block;background:#4CAF50;color:white;padding:10px 20px;border-radius:15px;margin:5px;box-shadow:0 4px 6px rgba(0,0,0,0.2);">
+🎯 Team Lead at TREND SOCIAL & Comma
+</span>
+
+<span style="display:inline-block;background:#2196F3;color:white;padding:10px 20px;border-radius:15px;margin:5px;box-shadow:0 4px 6px rgba(0,0,0,0.2);">
+🎓 Bachelor's in AI
+</span>
+
+<span style="display:inline-block;background:#FF9800;color:white;padding:10px 20px;border-radius:15px;margin:5px;box-shadow:0 4px 6px rgba(0,0,0,0.2);">
+📍 Al Mansoura, Egypt
+</span>
+
+<span style="display:inline-block;background:#9C27B0;color:white;padding:10px 20px;border-radius:15px;margin:5px;box-shadow:0 4px 6px rgba(0,0,0,0.2);">
+🌍 Remote Friendly
+</span>
+
 </p>
 
 
