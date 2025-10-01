@@ -38,9 +38,42 @@
 <div align="center">
 ### 🚀 Flutter Skills
 
-| 💻 Framework & Language | ⚡ State Management | 🔗 Backend & Database | 🏗️ Architecture & Patterns | 📱 Platforms |
-|------------------------|------------------|---------------------|---------------------------|-------------|
-| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) <br> ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) | ![Bloc](https://img.shields.io/badge/Bloc-000000?style=for-the-badge&logo=flutter&logoColor=white) <br> ![Provider](https://img.shields.io/badge/Provider-42A5F5?style=for-the-badge&logo=flutter&logoColor=white) <br> ![GetX](https://img.shields.io/badge/GetX-FF6F00?style=for-the-badge&logo=flutter&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) <br> ![Firestore](https://img.shields.io/badge/Cloud_Firestore-FFA000?style=for-the-badge&logo=googlecloud&logoColor=white) <br> ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) <br> ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white) | ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-6A1B9A?style=for-the-badge) <br> ![MVVM](https://img.shields.io/badge/MVVM-00897B?style=for-the-badge) <br> ![Repository](https://img.shields.io/badge/Repository_Pattern-FF5722?style=for-the-badge) | ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white) <br> ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) <br> ![Desktop](https://img.shields.io/badge/Desktop-607D8B?style=for-the-badge) |
+<div align="center">
+
+<!-- Row 1 -->
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Bloc-000000?style=for-the-badge&logo=flutter&logoColor=white" />
+
+<br><br>
+
+<!-- Row 2 -->
+<img src="https://img.shields.io/badge/Provider-42A5F5?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/GetX-FF6F00?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+
+<br><br>
+
+<!-- Row 3 -->
+<img src="https://img.shields.io/badge/Cloud_Firestore-FFA000?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+
+<br><br>
+
+<!-- Row 4 -->
+<img src="https://img.shields.io/badge/Clean_Architecture-6A1B9A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MVVM-00897B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Repository_Pattern-FF5722?style=for-the-badge" />
+
+<br><br>
+
+<!-- Row 5 -->
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Desktop-607D8B?style=for-the-badge" />
+
+</div>
 
 ---
 
