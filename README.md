@@ -2,26 +2,50 @@
 
 # 👨‍💻 Mahmoud Mokhtar
 
-### Professional Flutter Developer | BSc in AI | +2 Yrs Experience
+### 🚀 Professional Flutter Developer | BSc in AI | 2+ Years of Production Experience
 
-[![Experience](https://img.shields.io/badge/Experience-2%2B%20Years-blue?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/Eng-Mahmoud-Mokhtar)
-[![Flutter](https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/Eng-Mahmoud-Mokhtar)
-[![Projects](https://img.shields.io/badge/Projects-12%2B-success?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eng-Mahmoud-Mokhtar)
-[![AI](https://img.shields.io/badge/AI-Powered-FF6F00?style=for-the-badge&logo=brain&logoColor=white)](https://github.com/Eng-Mahmoud-Mokhtar)
+<p align="center">
+  <a href="https://github.com/Eng-Mahmoud-Mokhtar">
+    <img src="https://img.shields.io/badge/Experience-2%2B%20Years-blue?style=for-the-badge&logo=rocket&logoColor=white" alt="Experience"/>
+  </a>
+  <a href="https://github.com/Eng-Mahmoud-Mokhtar">
+    <img src="https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  </a>
+  <a href="https://github.com/Eng-Mahmoud-Mokhtar?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-12%2B-success?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
+  </a>
+  <a href="https://github.com/Eng-Mahmoud-Mokhtar">
+    <img src="https://img.shields.io/badge/AI-Powered-FF6F00?style=for-the-badge&logo=brain&logoColor=white" alt="AI"/>
+  </a>
+</p>
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-### 🎯 Currently: Team Lead at **TREND SOCIAL** | 🎓 Bachelor's in AI Science
-### 📍 Al Mansoura, Egypt | 🌍 Available for Remote Work
+### 🎯 Current Role: **Team Lead @ TREND SOCIAL**  
+### 🎓 Education: Bachelor's in Artificial Intelligence  
+### 📍 Location: Al Mansoura, Egypt | 🌍 Open to Remote Opportunities
 
-[![Email](https://img.shields.io/badge/Email-Mahmoudmokhtar2001%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Mahmoudmokhtar2001@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-01017900067-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:01017900067)
+<p align="center">
+  <a href="mailto:Mahmoudmokhtar2001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Mahmoudmokhtar2001%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="tel:+201017900067">
+    <img src="https://img.shields.io/badge/Phone-+20%201017900067-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone"/>
+  </a>
+  <a href="https://www.linkedin.com/in/eng-mahmoud-mokhtar/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/EngMahmoudMokhtar">
+    <img src="https://img.shields.io/badge/Twitter-@EngMahmoudMokhtar-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</p>
 
 </div>
+
 
 ---
 
