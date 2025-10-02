@@ -1,25 +1,27 @@
 <div align="center">
 
-# Hi,i'am Mahmoud Mokhtar
-### 🚀 Professional Flutter Developer | BSc in AI | 2+ Years of Production Experience
-## Holds a Bachelor's degree and specializes in developing scalable, high-performance applications. 
-Experienced in integrating smart features and optimizing app performance for seamless user experiences.
+# 👋 Hi, I'm Mahmoud Mokhtar
+### 🚀 Professional Mobile Developer | 2+ Years of Experience | BSc in AI
 
-<p align="center" style="margin-top:10px; margin-bottom:10px;">
+<p align="center" style="max-width: 700px; margin: 10px auto;">
+Holds a Bachelor's degree and specializes in developing **scalable, high-performance applications**. Experienced in integrating smart features and optimizing app performance for **seamless user experiences**.
+</p>
 
-<a href="https://wa.me/201017900067" target="_blank" style="margin:0 10px;">
+<p align="center" style="margin-top:15px; margin-bottom:15px;">
+
+<a href="https://wa.me/201017900067" target="_blank" style="margin:0 8px;">
   <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logoWidth=30" />
 </a>
 
-<a href="https://www.linkedin.com/in/mahmoud-mokhtar-0923b236b/" target="_blank" style="margin:0 10px;">
+<a href="https://www.linkedin.com/in/mahmoud-mokhtar-0923b236b/" target="_blank" style="margin:0 8px;">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30" />
 </a>
 
-<a href="https://www.tiktok.com/@mahmoudmokhtar919" target="_blank" style="margin:0 10px;">
+<a href="https://www.tiktok.com/@mahmoudmokhtar919" target="_blank" style="margin:0 8px;">
   <img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&logoWidth=30" />
 </a>
 
-<a href="mailto:mahmoudmokhtar1212001@gmail.com" target="_blank" style="margin:0 10px;">
+<a href="mailto:mahmoudmokhtar1212001@gmail.com" target="_blank" style="margin:0 8px;">
   <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30" />
 </a>
 
@@ -31,7 +33,7 @@ Experienced in integrating smart features and optimizing app performance for sea
 
 ## 🚀 Flutter & Mobile Skills
 
-<div align="center">
+<div align="center" style="display:flex; flex-wrap: wrap; gap: 10px; justify-content:center;">
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
@@ -82,7 +84,7 @@ Agile workflow, high-quality output
 </td>
 <td width="33%" align="center">
 <h3>🎨 Pixel Perfect UI</h3>
-Figma & design accurate implementation
+Figma & design-accurate implementation
 </td>
 </tr>
 </table>
@@ -91,8 +93,6 @@ Figma & design accurate implementation
 
 ---
 
-<div align="center">
+<div align="center" style="margin-top:20px;">
 <sub>Last updated: October 2025 | Built with 💙 using Flutter</sub>
-</div> ضيف Professional Mobile Developer | 2+ Years of Experience.  
-Holds a Bachelor's degree and specializes in developing scalable, high-performance applications. 
-Experienced in integrating smart features and optimizing app performance for seamless user experiences.
+</div>
