@@ -1,13 +1,13 @@
 <div align="center">
 
 # 👋 Hi, I'm Mahmoud Mokhtar
-## Professional Mobile Developer | 2+ Years of Experience | BSc in AI
+### **Professional Mobile Developer | 2+ Years of Experience | BSc in AI**
 
-<p align="center" style="max-width: 700px; margin: 10px auto;">
+<p align="center" style="max-width: 700px; margin: 8px auto 12px auto; line-height:1.5;">
 Holds a Bachelor's degree and specializes in developing <strong>scalable, high-performance applications</strong>. Experienced in integrating smart features and optimizing app performance for <strong>seamless user experiences</strong>.
 </p>
 
-<p align="center" style="margin-top:15px; margin-bottom:15px;">
+<p align="center" style="margin:12px 0;">
 
 <a href="https://wa.me/201017900067" target="_blank" style="margin:0 8px;">
   <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logoWidth=30" />
@@ -33,7 +33,7 @@ Holds a Bachelor's degree and specializes in developing <strong>scalable, high-p
 
 ## 🚀 Flutter & Mobile Skills
 
-<div align="center" style="display:flex; flex-wrap: wrap; gap: 10px; justify-content:center;">
+<div align="center" style="display:flex; flex-wrap: wrap; gap: 12px; justify-content:center;">
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
@@ -60,29 +60,29 @@ Holds a Bachelor's degree and specializes in developing <strong>scalable, high-p
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="33%" align="center" style="padding: 12px;">
 <h3>🏗️ Clean & Maintainable</h3>
 SOLID & scalable architecture
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" style="padding: 12px;">
 <h3>⚡ High Performance</h3>
 Optimized 60fps+ with minimal memory usage
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" style="padding: 12px;">
 <h3>🤖 AI & ML Features</h3>
 Computer Vision, ML models & smart apps
 </td>
 </tr>
 <tr>
-<td width="33%" align="center">
+<td width="33%" align="center" style="padding: 12px;">
 <h3>👥 Team Leadership</h3>
 Mentoring, code reviews & management
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" style="padding: 12px;">
 <h3>🚀 Rapid Delivery</h3>
 Agile workflow, high-quality output
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" style="padding: 12px;">
 <h3>🎨 Pixel Perfect UI</h3>
 Figma & design-accurate implementation
 </td>
@@ -93,6 +93,6 @@ Figma & design-accurate implementation
 
 ---
 
-<div align="center" style="margin-top:20px;">
+<div align="center" style="margin-top:30px;">
 <sub>Last updated: October 2025 | Built with 💙 using Flutter</sub>
 </div>
