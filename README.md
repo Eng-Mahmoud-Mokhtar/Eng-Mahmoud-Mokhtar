@@ -89,26 +89,6 @@ Figma & design accurate implementation
 
 ---
 
-## 📈 GitHub Activity
-
-<table align="center" style="width: 100%; border-spacing: 10px;">
-<tr>
-  <!-- GitHub Stats Badge المعدلة يدويًا بدون أي مربع داخلي -->
-  <td style="width: 50%; text-align: center; padding: 10px;">
-    <img src="https://raw.githubusercontent.com/Eng-Mahmoud-Mokhtar/Custom-Badges/main/github-stats-transparent.svg" 
-         alt="GitHub Stats" width="100%" height="150" />
-  </td>
-
-  <!-- GitHub Streak Badge المعدلة لتكون شفافة تمامًا -->
-  <td style="width: 50%; text-align: center; padding: 10px;">
-    <img src="https://raw.githubusercontent.com/Eng-Mahmoud-Mokhtar/Custom-Badges/main/github-streak-transparent.svg" 
-         alt="GitHub Streak" width="100%" height="150" />
-  </td>
-</tr>
-</table>
-
----
-
 ## 📬 Let's Build Something Amazing
 
 <div align="center">
