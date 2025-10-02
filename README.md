@@ -87,37 +87,28 @@ Figma & design accurate implementation
 
 </div>
 
----
+### 🚀 Collaboration Opportunities
 
-## 📬 Let's Build Something Amazing
+<div align="center" style="margin-top:10px; margin-bottom:10px;">
 
-<div align="center">
+<a href="mailto:Mahmoudmokhtar2001@gmail.com" target="_blank" style="margin:5px;">
+  <img src="https://img.shields.io/badge/Full--time-💼-blue?style=for-the-badge&logo=appveyor&logoColor=white" alt="Full-time" />
+</a>
 
-### 💡 Idea in Action:
-**"Let's create apps together that solve real problems, look stunning, and perform flawlessly!"**
+<a href="mailto:Mahmoudmokhtar2001@gmail.com" target="_blank" style="margin:5px;">
+  <img src="https://img.shields.io/badge/Contract-📄-orange?style=for-the-badge&logo=appveyor&logoColor=white" alt="Contract" />
+</a>
 
-<br>
+<a href="mailto:Mahmoudmokhtar2001@gmail.com" target="_blank" style="margin:5px;">
+  <img src="https://img.shields.io/badge/Technical_Consulting-🛠️-green?style=for-the-badge&logo=appveyor&logoColor=white" alt="Consulting" />
+</a>
 
-<table>
-<tr>
-  <td align="center">
-    <img src="https://github.com/user-attachments/assets/540ba17b-7abd-45ad-b4ae-afc3f052ea1f" alt="App Concept 1" style="width:100%; border-radius:10px;" /><br>
-    <b>Fit Forge 1</b>
-  </td>
-  <td align="center">
-  <img src="https://github.com/user-attachments/assets/540ba17b-7abd-45ad-b4ae-afc3f052ea1f" alt="App Concept 1" style="width:100%; border-radius:10px;" /><br>
-    <b>Fit Forge 1</b>
-  </td>
-  <td align="center">
-  <img src="https://github.com/user-attachments/assets/540ba17b-7abd-45ad-b4ae-afc3f052ea1f" alt="App Concept 1" style="width:100%; border-radius:10px;" /><br>
-    <b>Fit Forge 1</b>  </td>
-</tr>
-</table>
+<a href="mailto:Mahmoudmokhtar2001@gmail.com" target="_blank" style="margin:5px;">
+  <img src="https://img.shields.io/badge/Team_Leadership-👥-purple?style=for-the-badge&logo=appveyor&logoColor=white" alt="Leadership" />
+</a>
 
-<br>
+</div>
 
-### 🚀 How You Can Join:
-✅ Full-time collaboration | ✅ Contract projects | ✅ Technical consulting | ✅ Team leadership
 
 </div>
 
