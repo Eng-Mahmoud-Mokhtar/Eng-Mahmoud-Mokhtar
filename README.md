@@ -91,20 +91,19 @@ Figma & design accurate implementation
 
 ## 📈 GitHub Activity
 
-<table align="center" style="width: 100%; border-spacing: 0;">
+<table align="center" style="width: 100%; border-spacing: 10px;">
 <tr>
-  <!-- GitHub Stats Badge -->
+  <!-- GitHub Stats Badge بدون أي خلفية أو مربع أبيض -->
   <td style="width: 50%; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Eng-Mahmoud-Mokhtar&show_icons=true&theme=tokyonight&count_private=true&hide=stars,followers&hide_rank=true" alt="GitHub Stats" width="100%" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Eng-Mahmoud-Mokhtar&show_icons=true&theme=tokyonight&count_private=true&hide=stars,followers&hide_rank=true&bg_color=00000000" alt="GitHub Stats" width="100%" height="150" />
   </td>
 
-  <!-- GitHub Streak Badge -->
+  <!-- GitHub Streak Badge عادي -->
   <td style="width: 50%; text-align: center;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-Mahmoud-Mokhtar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" height="150" />
   </td>
 </tr>
 </table>
-
 
 ---
 
