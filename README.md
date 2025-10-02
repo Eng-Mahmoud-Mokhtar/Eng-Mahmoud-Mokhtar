@@ -1,10 +1,10 @@
 <div align="center">
 
 # 👋 Hi, I'm Mahmoud Mokhtar
-### 🚀 Professional Mobile Developer | 2+ Years of Experience | BSc in AI
+## Professional Mobile Developer | 2+ Years of Experience | BSc in AI
 
 <p align="center" style="max-width: 700px; margin: 10px auto;">
-Holds a Bachelor's degree and specializes in developing **scalable, high-performance applications**. Experienced in integrating smart features and optimizing app performance for **seamless user experiences**.
+Holds a Bachelor's degree and specializes in developing <strong>scalable, high-performance applications</strong>. Experienced in integrating smart features and optimizing app performance for <strong>seamless user experiences</strong>.
 </p>
 
 <p align="center" style="margin-top:15px; margin-bottom:15px;">
