@@ -93,14 +93,14 @@ Figma & design accurate implementation
 
 <table align="center" style="width: 100%; border-spacing: 10px;">
 <tr>
-  <!-- GitHub Stats Badge بدون أي خلفية أو بوردر أبيض -->
+  <!-- GitHub Stats Badge بدون بوردر أبيض داخلي -->
   <td style="width: 50%; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Eng-Mahmoud-Mokhtar&show_icons=true&theme=tokyonight&count_private=true&hide=stars,followers&hide_rank=true&bg_color=00000000" alt="GitHub Stats" width="100%" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Eng-Mahmoud-Mokhtar&show_icons=true&theme=transparent&count_private=true&hide=stars,followers&hide_rank=true" alt="GitHub Stats" width="100%" height="150" />
   </td>
 
-  <!-- GitHub Streak Badge عادي -->
+  <!-- GitHub Streak Badge بدون بوردر أبيض داخلي -->
   <td style="width: 50%; text-align: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-Mahmoud-Mokhtar&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" width="100%" height="150" />
+    <img src="https://streak-stats.demolab.com/?user=Eng-Mahmoud-Mokhtar&theme=transparent&hide_border=true" alt="GitHub Streak" width="100%" height="150" />
   </td>
 </tr>
 </table>
