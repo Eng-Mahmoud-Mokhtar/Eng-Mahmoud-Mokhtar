@@ -91,15 +91,15 @@ Figma & design accurate implementation
 
 ## 📈 GitHub Activity
 
-<table align="center" style="width: 100%; border-spacing: 10px;">
+<table align="center" style="width: 100%; border-spacing: 0; background-color:#1e1e2f; border-radius:15px; padding:10px;">
 <tr>
-  <!-- GitHub Stats Badge بدون بوردر أبيض داخلي -->
-  <td style="width: 50%; text-align: center;">
+  <!-- GitHub Stats Badge بدون أي مربعات داخلية -->
+  <td style="width: 50%; text-align: center; padding: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=Eng-Mahmoud-Mokhtar&show_icons=true&theme=transparent&count_private=true&hide=stars,followers&hide_rank=true" alt="GitHub Stats" width="100%" height="150" />
   </td>
 
-  <!-- GitHub Streak Badge بدون بوردر أبيض داخلي -->
-  <td style="width: 50%; text-align: center;">
+  <!-- GitHub Streak Badge بدون أي مربعات داخلية -->
+  <td style="width: 50%; text-align: center; padding: 10px;">
     <img src="https://streak-stats.demolab.com/?user=Eng-Mahmoud-Mokhtar&theme=transparent&hide_border=true" alt="GitHub Streak" width="100%" height="150" />
   </td>
 </tr>
