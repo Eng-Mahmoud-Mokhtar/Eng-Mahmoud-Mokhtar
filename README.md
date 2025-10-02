@@ -89,23 +89,23 @@ Figma & design accurate implementation
 
 ### 🚀 Collaboration Opportunities
 
-<div align="center" style="margin-top:10px; margin-bottom:10px;">
+<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-top:10px;">
 
-<a href="mailto:Mahmoudmokhtar2001@gmail.com" target="_blank" style="margin:5px;">
-  <img src="https://img.shields.io/badge/Full--time-💼-blue?style=for-the-badge&logo=appveyor&logoColor=white" alt="Full-time" />
-</a>
+<div style="background-color:#1E90FF; color:white; padding:15px 25px; border-radius:10px; font-weight:bold; min-width:150px; text-align:center;">
+Full-time 💼
+</div>
 
-<a href="mailto:Mahmoudmokhtar2001@gmail.com" target="_blank" style="margin:5px;">
-  <img src="https://img.shields.io/badge/Contract-📄-orange?style=for-the-badge&logo=appveyor&logoColor=white" alt="Contract" />
-</a>
+<div style="background-color:#FF8C00; color:white; padding:15px 25px; border-radius:10px; font-weight:bold; min-width:150px; text-align:center;">
+Contract 📄
+</div>
 
-<a href="mailto:Mahmoudmokhtar2001@gmail.com" target="_blank" style="margin:5px;">
-  <img src="https://img.shields.io/badge/Technical_Consulting-🛠️-green?style=for-the-badge&logo=appveyor&logoColor=white" alt="Consulting" />
-</a>
+<div style="background-color:#32CD32; color:white; padding:15px 25px; border-radius:10px; font-weight:bold; min-width:150px; text-align:center;">
+Technical Consulting 🛠️
+</div>
 
-<a href="mailto:Mahmoudmokhtar2001@gmail.com" target="_blank" style="margin:5px;">
-  <img src="https://img.shields.io/badge/Team_Leadership-👥-purple?style=for-the-badge&logo=appveyor&logoColor=white" alt="Leadership" />
-</a>
+<div style="background-color:#8A2BE2; color:white; padding:15px 25px; border-radius:10px; font-weight:bold; min-width:150px; text-align:center;">
+Team Leadership 👥
+</div>
 
 </div>
 
