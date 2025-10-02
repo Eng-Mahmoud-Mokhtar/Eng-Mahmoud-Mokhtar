@@ -91,7 +91,7 @@ Figma & design accurate implementation
 
 ## 📈 GitHub Activity
 
-<div align="center" style="display: flex; justify-content: center; width: 100%; gap: 0;">
+<div align="center" style="display: flex; justify-content: center; gap: 0; width: 100%;">
 
 <!-- GitHub Stats Badge -->
 <img src="https://github-readme-stats.vercel.app/api?username=Eng-Mahmoud-Mokhtar&show_icons=true&theme=tokyonight&count_private=true&hide=stars,followers&hide_rank=true" alt="GitHub Stats" style="width: 50%; height: 150px;" />
