@@ -89,8 +89,6 @@ Figma & design accurate implementation
 
 ---
 
----
-
 ## 📬 Let's Build Something Amazing
 
 <div align="center">
@@ -103,15 +101,15 @@ Figma & design accurate implementation
 <table>
 <tr>
   <td align="center">
-    <img src="https://github.com/user-attachments/assets/540ba17b-7abd-45ad-b4ae-afc3f052ea1f" alt="App Concept 1" width="150" style="border-radius:15px;" /><br>
+    <img src="https://github.com/user-attachments/assets/540ba17b-7abd-45ad-b4ae-afc3f052ea1f" alt="App Concept 1" style="width:100%; border-radius:10px;" /><br>
     <b>App Concept 1</b>
   </td>
   <td align="center">
-    <img src="https://raw.githubusercontent.com/Eng-Mahmoud-Mokhtar/Portfolio-Images/main/app2.png" alt="App Concept 2" width="150" style="border-radius:15px;" /><br>
+    <img src="https://raw.githubusercontent.com/Eng-Mahmoud-Mokhtar/Portfolio-Images/main/app2.png" alt="App Concept 2" style="width:100%; border-radius:10px;" /><br>
     <b>App Concept 2</b>
   </td>
   <td align="center">
-    <img src="https://raw.githubusercontent.com/Eng-Mahmoud-Mokhtar/Portfolio-Images/main/app3.png" alt="App Concept 3" width="150" style="border-radius:15px;" /><br>
+    <img src="https://raw.githubusercontent.com/Eng-Mahmoud-Mokhtar/Portfolio-Images/main/app3.png" alt="App Concept 3" style="width:100%; border-radius:10px;" /><br>
     <b>App Concept 3</b>
   </td>
 </tr>
