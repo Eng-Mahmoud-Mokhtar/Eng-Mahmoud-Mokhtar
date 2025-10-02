@@ -91,17 +91,19 @@ Figma & design accurate implementation
 
 ## 📈 GitHub Activity
 
-<div align="center" style="display: flex; justify-content: center; gap: 0; width: 100%;">
+<table align="center" style="width: 100%; border-spacing: 0;">
+<tr>
+  <!-- GitHub Stats Badge -->
+  <td style="width: 50%; text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Eng-Mahmoud-Mokhtar&show_icons=true&theme=tokyonight&count_private=true&hide=stars,followers&hide_rank=true" alt="GitHub Stats" width="100%" height="150" />
+  </td>
 
-<!-- GitHub Stats Badge -->
-<img src="https://github-readme-stats.vercel.app/api?username=Eng-Mahmoud-Mokhtar&show_icons=true&theme=tokyonight&count_private=true&hide=stars,followers&hide_rank=true" alt="GitHub Stats" style="width: 50%; height: 150px;" />
-
-<!-- GitHub Streak Badge -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-Mahmoud-Mokhtar&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" style="width: 50%; height: 150px;" />
-
-</div>
-
-
+  <!-- GitHub Streak Badge -->
+  <td style="width: 50%; text-align: center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-Mahmoud-Mokhtar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" height="150" />
+  </td>
+</tr>
+</table>
 
 ---
 
