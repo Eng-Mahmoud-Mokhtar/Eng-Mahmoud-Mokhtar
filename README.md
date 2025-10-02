@@ -89,26 +89,43 @@ Figma & design accurate implementation
 
 ### 🚀 Collaboration Opportunities
 
-<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-top:10px;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-<div style="background-color:#1E90FF; color:white; padding:15px 25px; border-radius:10px; font-weight:bold; min-width:150px; text-align:center;">
-Full-time 💼
+<!-- Full-time -->
+<a href="mailto:Mahmoudmokhtar2001@gmail.com" style="text-decoration:none;">
+<div style="background:#1E90FF; color:white; padding:20px 25px; border-radius:12px; font-weight:bold; min-width:160px; text-align:center;">
+💼 Full-time
+<br>
+<span style="font-weight:normal; font-size:14px;">Permanent role working closely on projects</span>
 </div>
+</a>
 
-<div style="background-color:#FF8C00; color:white; padding:15px 25px; border-radius:10px; font-weight:bold; min-width:150px; text-align:center;">
-Contract 📄
+<!-- Contract -->
+<a href="mailto:Mahmoudmokhtar2001@gmail.com" style="text-decoration:none;">
+<div style="background:#FF8C00; color:white; padding:20px 25px; border-radius:12px; font-weight:bold; min-width:160px; text-align:center;">
+📄 Contract
+<br>
+<span style="font-weight:normal; font-size:14px;">Short-term project-based collaboration</span>
 </div>
+</a>
 
-<div style="background-color:#32CD32; color:white; padding:15px 25px; border-radius:10px; font-weight:bold; min-width:150px; text-align:center;">
-Technical Consulting 🛠️
+<!-- Technical Consulting -->
+<a href="mailto:Mahmoudmokhtar2001@gmail.com" style="text-decoration:none;">
+<div style="background:#32CD32; color:white; padding:20px 25px; border-radius:12px; font-weight:bold; min-width:160px; text-align:center;">
+🛠️ Technical Consulting
+<br>
+<span style="font-weight:normal; font-size:14px;">Expert advice on architecture, Flutter & AI solutions</span>
 </div>
+</a>
 
-<div style="background-color:#8A2BE2; color:white; padding:15px 25px; border-radius:10px; font-weight:bold; min-width:150px; text-align:center;">
-Team Leadership 👥
+<!-- Team Leadership -->
+<a href="mailto:Mahmoudmokhtar2001@gmail.com" style="text-decoration:none;">
+<div style="background:#8A2BE2; color:white; padding:20px 25px; border-radius:12px; font-weight:bold; min-width:160px; text-align:center;">
+👥 Team Leadership
+<br>
+<span style="font-weight:normal; font-size:14px;">Managing and guiding development teams</span>
 </div>
-
-</div>
-
+</a>
 
 </div>
 
