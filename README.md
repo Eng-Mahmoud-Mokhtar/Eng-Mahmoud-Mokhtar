@@ -3,6 +3,10 @@
 # 👨‍💻 Mahmoud Mokhtar
 ### 🚀 Professional Flutter Developer | BSc in AI | 2+ Years of Production Experience
 
+**Professional Mobile Developer | 2+ Years of Experience.**  
+Holds a Bachelor's degree and specializes in developing scalable, high-performance applications.  
+Experienced in integrating smart features and optimizing app performance for seamless user experiences.
+
 <p align="center" style="margin-top:10px; margin-bottom:10px;">
 
 <a href="https://wa.me/201017900067" target="_blank" style="margin:0 10px;">
@@ -23,102 +27,4 @@
 
 </p>
 
-</div>
-
----
-
-## 🚀 Flutter & Mobile Skills
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/State_Management-Bloc/Provider/GetX-000000?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Cloud_Firestore-FFA000?style=for-the-badge&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Architecture-MVVM/Clean/Repository-6A1B9A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Testing-Unit/Integration-0288D1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CI/CD-GitHub_Actions-24292F?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Animations-Lottie/Rive-F57C00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/Desktop-607D8B?style=for-the-badge" />
-
-</div>
-
----
-
-## 💡 Why Companies Choose Me
-
-<div align="center">
-
-<table>
-<tr>
-<td width="33%" align="center">
-<h3>🏗️ Clean & Maintainable</h3>
-SOLID & scalable architecture
-</td>
-<td width="33%" align="center">
-<h3>⚡ High Performance</h3>
-Optimized 60fps+ with minimal memory usage
-</td>
-<td width="33%" align="center">
-<h3>🤖 AI & ML Features</h3>
-Computer Vision, ML models & smart apps
-</td>
-</tr>
-<tr>
-<td width="33%" align="center">
-<h3>👥 Team Leadership</h3>
-Mentoring, code reviews & management
-</td>
-<td width="33%" align="center">
-<h3>🚀 Rapid Delivery</h3>
-Agile workflow, high-quality output
-</td>
-<td width="33%" align="center">
-<h3>🎨 Pixel Perfect UI</h3>
-Figma & design accurate implementation
-</td>
-</tr>
-</table>
-
-</div>
-
-### 🚀 Collaboration Opportunities
-
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-
-<div style="background:#1E90FF; color:white; padding:20px 25px; border-radius:12px; font-weight:bold; min-width:160px; text-align:center;">
-💼 Full-time
-<br>
-<span style="font-weight:normal; font-size:14px;">Permanent role working closely on projects</span>
-</div>
-
-<div style="background:#FF8C00; color:white; padding:20px 25px; border-radius:12px; font-weight:bold; min-width:160px; text-align:center;">
-📄 Contract
-<br>
-<span style="font-weight:normal; font-size:14px;">Short-term project-based collaboration</span>
-</div>
-
-<div style="background:#32CD32; color:white; padding:20px 25px; border-radius:12px; font-weight:bold; min-width:160px; text-align:center;">
-🛠️ Technical Consulting
-<br>
-<span style="font-weight:normal; font-size:14px;">Expert advice on architecture, Flutter & AI solutions</span>
-</div>
-
-<div style="background:#8A2BE2; color:white; padding:20px 25px; border-radius:12px; font-weight:bold; min-width:160px; text-align:center;">
-👥 Team Leadership
-<br>
-<span style="font-weight:normal; font-size:14px;">Managing and guiding development teams</span>
-</div>
-
-</div>
-
----
-
-<div align="center">
-<sub>Last updated: October 2025 | Built with 💙 using Flutter</sub>
 </div>
