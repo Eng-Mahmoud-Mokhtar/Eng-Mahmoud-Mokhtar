@@ -95,12 +95,12 @@ Figma & design accurate implementation
 <tr>
   <!-- GitHub Stats Badge بدون بوردر أبيض داخلي -->
   <td style="width: 50%; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Eng-Mahmoud-Mokhtar&show_icons=true&theme=transparent&count_private=true&hide=stars,followers&hide_rank=true" alt="GitHub Stats" width="200%" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Eng-Mahmoud-Mokhtar&show_icons=true&theme=transparent&count_private=true&hide=stars,followers&hide_rank=true" alt="GitHub Stats" width="100%" height="150" />
   </td>
 
   <!-- GitHub Streak Badge بدون بوردر أبيض داخلي -->
   <td style="width: 50%; text-align: center;">
-    <img src="https://streak-stats.demolab.com/?user=Eng-Mahmoud-Mokhtar&theme=transparent&hide_border=true" alt="GitHub Streak" width="200%" height="150" />
+    <img src="https://streak-stats.demolab.com/?user=Eng-Mahmoud-Mokhtar&theme=transparent&hide_border=true" alt="GitHub Streak" width="100%" height="150" />
   </td>
 </tr>
 </table>
