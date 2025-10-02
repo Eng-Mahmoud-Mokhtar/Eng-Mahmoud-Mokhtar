@@ -4,7 +4,8 @@
 ### **Professional Mobile Developer | 2+ Years of Experience | BSc in AI**
 
 <p align="center" style="max-width: 700px; margin: 8px auto 12px auto; line-height:1.5;">
-Holds a Bachelor's degree and specializes in developing <strong>scalable, high-performance applications</strong>. Experienced in integrating smart features and optimizing app performance for <strong>seamless user experiences</strong>.
+Holds a Bachelor's degree and specializes in developing <strong>scalable, high-performance applications</strong>.<br>
+Experienced in integrating smart features and optimizing app performance for <strong>seamless user experiences</strong>.
 </p>
 
 <p align="center" style="margin:12px 0;">
